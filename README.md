@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Alnagar</h1>
 <h3 align="center">Machine learning and AI Engineer</h3>
 
+<img align="center" alt="coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammar-alnagar&label=Profile%20views&color=0e75b6&style=flat" alt="ammar-alnagar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
