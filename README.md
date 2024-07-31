@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Alnagar</h1>
 <h3 align="center">Machine learning and AI Software Engineer</h3>
 
-<img align="right" alt="coding" width="1000" src="[https://miro.medium.com/v2/resize:fit:720/format:webp/1*oUAAR9fnsmpstFhqmZZ55g.gif](https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb)">
+<img align="right" alt="coding" width="1000" src="https://media0.giphy.com/media/WoLflWo2k1iZyeVYad/200w.gif?cid=6c09b952mktn4qopguilxd3v0mnlnc2xezd9qaz8jcd6bl1x&ep=v1_gifs_search&rid=200w.gif&ct=g">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ammar-alnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-alnagar" height="30" width="40" /></a>
