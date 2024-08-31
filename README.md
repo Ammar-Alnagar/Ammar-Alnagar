@@ -10,13 +10,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ammar-Alnagar?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ammar-Alnagar?cardType=level&theme=dark&preferLogin=false&Ring=DD2727&Border=DD2727)](https://git.io/awesome-stats-card)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ammar-Alnagar&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
