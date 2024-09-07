@@ -1,6 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on building and fine-tuning a Self learning RAG system that uses SSMs and  specializes in specific domains.<br><br>👯 I’m looking to collaborate on AI-driven projects that push the boundaries of machine learning and natural language understanding.<br><br>🤝 I’m looking for help with exploring cutting-edge techniques in deep learning and natural language processing specifically SSMs and LLMs.<br><br>🌱 I’m currently learning advanced methods in Retrieval-Augmented Generation (RAG) , Structured State Machines (SSMs) , Generative AI and Reinforcement learning .<br><br>⚡ Fun fact: I'm always up for a challenge and love diving into complex AI problems to find innovative solutions.
 
+## Hey 👋, I'm Ammar Alnagar  
+  
+
+<a href="https://linkedin.com/in/ammar-alnagar-393413201" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@ammaralnagar416" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+### Glad to see you here!  
+I am a Generative AI Engineer passionate about developing intelligent systems that can interact with and understand complex data. My journey began with a deep interest in Deep Learning and Natural Language Processing (NLP), and I have expanded my skillset into areas like Reinforcement Learning (RL), Retrieval-Augmented Generation (RAG), and Structured State Machines (SSMs).
+
+I enjoy working on projects that combine cutting-edge machine learning techniques with real-world applications, including:
+
+*Fine-tuning Large Language Models (LLMs) for text generation and question answering.
+
+*Creating AI systems using RAG and SSMs to interact with unstructured data like PDFs.
+
+*Exploring the use of AI agents and function calling for cognitive systems.
+
+Currently, I’m enhancing my knowledge in GenAI , while focusing on building LLM-based applications with a strong emphasis on Chroma DB for vector databases. I'm always eager to collaborate on innovative projects that push the boundaries of AI research and development.
+Feel free to check out my projects and connect!
+  
+  
+
+<br/>  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-alnagar-393413201) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ammar-Elnaggar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Ammar-Elnaggar) 
