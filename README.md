@@ -75,7 +75,7 @@ Feel free to check out my projects and connect!
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>  
 
-<br/>  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
@@ -83,8 +83,6 @@ Feel free to check out my projects and connect!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ammar-Alnagar&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-<br/>  
 
 
 ---
