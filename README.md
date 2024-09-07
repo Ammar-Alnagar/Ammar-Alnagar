@@ -29,7 +29,7 @@ Feel free to check out my projects and connect!
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on building and fine-tuning a Self learning RAG system that uses SSMs and specializes in specific domains.  
   
@@ -44,7 +44,7 @@ Feel free to check out my projects and connect!
 
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
@@ -76,16 +76,13 @@ Feel free to check out my projects and connect!
 </div>  
 
 <br/>  
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ammar-Alnagar?cardType=level&theme=dark&preferLogin=false&Ring=DD2727&Border=DD2727)](https://git.io/awesome-stats-card)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ammar-Alnagar&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 <br/>  
 
