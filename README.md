@@ -49,8 +49,7 @@ Feel free to check out my projects and connect!
 <br/>  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-alnagar-393413201) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ammar-Elnaggar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Ammar-Elnaggar) 
+
 
 ## Languages and Tools  
 <div align="center">  
