@@ -28,7 +28,7 @@ Feel free to check out my projects and connect!
 
 <br/>  
 
-## Rapidfire  
+ 
 <tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on building and fine-tuning a Self learning RAG system that uses SSMs and specializes in specific domains.  
