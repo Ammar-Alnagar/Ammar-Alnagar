@@ -82,8 +82,7 @@ Feel free to check out my projects and connect!
 
 ## 🏆 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammar-Alnagar&theme=transparent)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-alnagar&show_icons=true&theme=dark&locale=en" alt="ammar-alnagar" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ammar-Alnagar&icon=0&color=8)](https://visitcount.itsvg.in)
