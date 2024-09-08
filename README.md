@@ -82,15 +82,11 @@ Feel free to check out my projects and connect!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
 
-
+###
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-alnagar&show_icons=true&theme=dark&locale=en" alt="ammar-alnagar" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ammar-Alnagar&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ###
+
 
 <br clear="both">
 
