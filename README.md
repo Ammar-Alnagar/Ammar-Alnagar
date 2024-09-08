@@ -75,10 +75,8 @@ Feel free to check out my projects and connect!
 </div>  
 
 
-# 📊 GitHub Stats:
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Ammar-Alnagar}&theme={dracula})
 
 ## 🏆 GitHub Stats
 
