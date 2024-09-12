@@ -88,7 +88,7 @@ Feel free to check out my projects and connect!
 ###
 <p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar-alnagar&theme=shadow_lover&show_icons=true) /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar-alnagar&theme=shadow_red&show_icons=true) /></p>
 
 ###
 
