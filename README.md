@@ -86,7 +86,7 @@ Feel free to check out my projects and connect!
 
 
 ###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-alnagar&show_icons=true&theme=matrix&locale=en" alt="ammar-alnagar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-alnagar&show_icons=true&theme=dark_lover&locale=en" alt="ammar-alnagar" /></p>
 
 ###
 
