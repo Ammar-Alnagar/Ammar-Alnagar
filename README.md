@@ -80,11 +80,7 @@ Feel free to check out my projects and connect!
 
 ## 🏆 GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=dark_lover" alt="ammar-alnagar" 
-/></a> 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy) </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=dark_lover" alt="ammar-alnagar" </p>
 
 
 
