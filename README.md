@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a Generative AI Engineer passionate about developing intelligent systems that can interact with and understand complex data. My journey began with a deep interest in Deep Learning and Natural Language Processing (NLP), and I have expanded my skillset into areas like Reinforcement Learning (RL), Retrieval-Augmented Generation (RAG), and Structured State Machines (SSMs).
+I am a AI Software Engineer passionate about developing intelligent systems that can interact with and understand complex data. My journey began with a deep interest in Deep Learning and Natural Language Processing (NLP), and I have expanded my skillset into areas like AI Agents, Retrieval-Augmented Generation (RAG) ,REact Agents and Selective State Machines (SSMs).
 
 I enjoy working on projects that combine cutting-edge machine learning techniques with real-world applications, including:
 
