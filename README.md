@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a AI Software Engineer passionate about developing intelligent systems that can interact with and understand complex data. My journey began with a deep interest in Deep Learning and Natural Language Processing (NLP), and I have expanded my skillset into areas like AI Agents, Retrieval-Augmented Generation (RAG) ,REact Agents and Selective State Machines (SSMs).
+I am a LLM Systems Engineer passionate about developing intelligent systems that can interact with and understand complex data. My journey began with a deep interest in Deep Learning and Natural Language Processing (NLP), and I have expanded my skillset into areas like AI Agents, Retrieval-Augmented Generation (RAG) ,REact Agents and Selective State Machines (SSMs).
 
 I enjoy working on projects that combine cutting-edge machine learning techniques with real-world applications, including:
 
@@ -34,7 +34,7 @@ Feel free to check out my projects and connect!
 - 🔭 I’m currently working on building and fine-tuning a Self learning RAG system that uses SSMs and specializes in specific domains.  
   
 
-- 🌱  I’m currently learning advanced methods in Retrieval-Augmented Generation (RAG) , Structured State Machines (SSMs) , Generative AI and Reinforcement learning .  
+- 🌱  I’m currently learning advanced methods in Retrieval-Augmented Generation (RAG) , Structured State Machines (SSMs) , Generative AI , Reinforcement learning and Contextually aware agents.  
   
 
 - ⚡ I’m looking to collaborate on AI-driven projects that push the boundaries of machine learning and natural language understanding.  
