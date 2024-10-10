@@ -1,5 +1,6 @@
 
-## Hey 👋, I'm Ammar Alnagar  
+## Greetings 👋, Fellow Tech Wizard .
+ I'm Ammar Alnagar  
   
 
 <a href="https://linkedin.com/in/ammar-alnagar-393413201" target="_blank">
