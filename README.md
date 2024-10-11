@@ -13,18 +13,7 @@
 
 
 ### Glad to see you here!  
-I am a LLM Systems Engineer passionate about developing intelligent systems that can interact with and understand complex data. My journey began with a deep interest in Deep Learning and Natural Language Processing (NLP), and I have expanded my skillset into areas like AI Agents, Retrieval-Augmented Generation (RAG) ,REact Agents and Selective State Machines (SSMs).
-
-I enjoy working on projects that combine cutting-edge machine learning techniques with real-world applications, including:
-
-*Fine-tuning Large Language Models (LLMs) for text generation and question answering.
-
-*Creating AI systems using RAG and SSMs to interact with unstructured data like PDFs.
-
-*Exploring the use of AI agents and function calling for cognitive systems.
-
-Currently, I’m enhancing my knowledge in GenAI , while focusing on building LLM-based applications with a strong emphasis on Chroma DB for vector databases. I'm always eager to collaborate on innovative projects that push the boundaries of AI research and development.
-Feel free to check out my projects and connect!
+An LLM Systems Engineer working on AI-driven solutions with large language models. My expertise includes building NLP systems, AI agents, and RAG frameworks. Currently, I’m developing advanced AI tools for document extraction and other innovative projects. Excited to explore new possibilities in AI!
 
 
 <br/>  
@@ -32,13 +21,11 @@ Feel free to check out my projects and connect!
  
 <tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on building and fine-tuning a Self learning RAG system that uses SSMs and specializes in specific domains.  
-  
+ 🔭 I’m currently working on a Self-learning Model with Chain of Thought (COT) reasoning to enhance model adaptability and performance.
 
-- 🌱  I’m currently learning advanced methods in Retrieval-Augmented Generation (RAG) , Structured State Machines (SSMs) , Generative AI , Reinforcement learning and Contextually aware agents.  
-  
+🌱 I’m also developing advanced AI tools, including an AI Brain Document Extraction system using Qdrant, and continually refining Retrieval-Augmented Generation (RAG) techniques for more contextually aware agents.
 
-- ⚡ I’m looking to collaborate on AI-driven projects that push the boundaries of machine learning and natural language understanding.  
+⚡ I’m looking to collaborate on cutting-edge AI projects, particularly those that focus on advancing cognitive systems, LLMs, and generative AI.
 
 
 </td><td valign="top" width="50%">
