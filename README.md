@@ -1,6 +1,6 @@
 
 # Greetings 👋, Fellow Tech Wizard .
- ## I'm Ammar Alnagar  
+
   
 
 <a href="https://linkedin.com/in/ammar-alnagar-393413201" target="_blank">
@@ -11,7 +11,7 @@
 </a>  
   
 
-
+ ## I'm Ammar Alnagar  
 ### Glad to see you here!  
 An LLM Systems Engineer working on AI-driven solutions with large language models. My expertise includes building NLP systems, AI agents, and RAG frameworks. Currently, I’m developing advanced AI tools for document extraction and other innovative projects. Excited to explore new possibilities in AI!
 
