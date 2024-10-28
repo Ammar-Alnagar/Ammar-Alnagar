@@ -79,6 +79,10 @@ A Cognitive Systems Engineer working on AI-driven solutions with large language 
 
 ![Ammar-Alnagar's Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+
+
+![Ammar-Alnagar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Alnagar&theme=tokyonight&hide_border=false)
+
 ###
 
 
