@@ -14,7 +14,7 @@
 
 # Glad to see you here!  
 ### I'm Ammar Alnagar  
-A ML/AI Engineer working on AI-driven solutions with large language models. My expertise includes building NLP systems, AI agents, and RAG frameworks. Currently, I’m developing advanced AI tools for document extraction and other innovative projects. Excited to explore new possibilities in AI!
+A Generative AI Engineer working on AI-driven solutions with large language models. My expertise includes building NLP systems, AI agents, and RAG frameworks. Currently, I’m developing advanced AI tools for document extraction and other innovative projects. Excited to explore new possibilities in AI!
 
 
 <br/>  
