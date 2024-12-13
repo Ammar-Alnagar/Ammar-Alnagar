@@ -14,7 +14,7 @@
 
 # Glad to see you here!  
 ### I'm Ammar Alnagar  
-Generative AI Engineer | Cognitive Systems Specialist | Innovating with LLMs
+AI Software Engineer  | Generative AI Artificer | Cognitive Systems Specialist | Innovating with LLMs
 
 Welcome to my GitHub! I specialize in crafting AI-driven solutions leveraging Large Language Models (LLMs) and multimodal systems to solve complex problems. My work is focused on building NLP systems, AI agents, and Retrieval-Augmented Generation (RAG) frameworks that push the boundaries of what's possible in AI.
 
