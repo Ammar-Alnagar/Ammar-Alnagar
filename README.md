@@ -14,20 +14,68 @@
 
 # Glad to see you here!  
 ### I'm Ammar Alnagar  
-A Generative AI Engineer working on AI-driven solutions with large language models. My expertise includes building NLP systems, AI agents, and RAG frameworks. Currently, I’m developing advanced AI tools for document extraction and other innovative projects. Excited to explore new possibilities in AI!
+Generative AI Engineer | Cognitive Systems Specialist | Innovating with LLMs
+
+Welcome to my GitHub! I specialize in crafting AI-driven solutions leveraging Large Language Models (LLMs) and multimodal systems to solve complex problems. My work is focused on building NLP systems, AI agents, and Retrieval-Augmented Generation (RAG) frameworks that push the boundaries of what's possible in AI.
 
 
-<br/>  
+---
 
- 
-<tr><td valign="top" width="50%">
+🚀 Current Projects
 
- 🔭 I’m currently working on a Self-learning Model with Chain of Thought (COT) reasoning to enhance model adaptability and performance.
+Self-Learning Models with Chain of Thought (COT):
+Enhancing model reasoning and adaptability by integrating advanced COT methodologies.
 
-🌱 I’m also developing advanced AI tools, including an AI Brain Document Extraction system using Qdrant, and continually refining Retrieval-Augmented Generation (RAG) techniques for more contextually aware agents.
+AI Brain for Document Extraction:
+Developing a state-of-the-art document extraction system powered by Qdrant, combining semantic search with contextual intelligence.
 
-⚡ I’m looking to collaborate on cutting-edge AI projects, particularly those that focus on advancing cognitive systems, LLMs, and generative AI.
+RAG Frameworks:
+Refining retrieval-augmented generation techniques for creating highly context-aware agents.
 
+
+
+---
+
+💡 What I’m Exploring
+
+🌱 Reinforcement Learning, Multi-Agent Systems, and Bayesian Inference for smarter and more robust AI models.
+🔍 Pioneering work in Mamba2 State Space Models (SSMs) and probabilistic learning techniques.
+📚 Expanding into data-efficient learning methods like few-shot learning, meta-learning, and active learning.
+
+
+---
+
+💻 Expertise
+
+Building AI-powered NLP systems and LLM-based agents.
+
+Crafting innovative solutions for document processing and contextual AI applications.
+
+Designing scalable RAG frameworks and exploring the potential of multimodal AI systems.
+
+
+
+---
+
+🤝 Let’s Collaborate!
+
+I’m always excited to team up on cutting-edge projects that advance:
+
+Cognitive AI systems
+
+Generative AI applications
+
+Multimodal and self-learning AI agents
+
+
+
+---
+
+🌟 Let’s innovate and create together! Feel free to reach out or contribute to my projects.
+📫 Connect with me on LinkedIn or drop me a message here!
+
+
+---
 
 </td><td valign="top" width="50%">
 
