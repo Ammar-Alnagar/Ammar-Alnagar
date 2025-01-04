@@ -12,67 +12,6 @@
   
 
 
-# Glad to see you here!  
-### I'm Ammar Alnagar  
-AI Software Engineer  | Generative AI Artificer | Cognitive Systems Specialist | Innovating with LLMs
-
-Welcome to my GitHub! I specialize in crafting AI-driven solutions leveraging Large Language Models (LLMs) and multimodal systems to solve complex problems. My work is focused on building NLP systems, AI agents, and Retrieval-Augmented Generation (RAG) frameworks that push the boundaries of what's possible in AI.
-
-
----
-
-🚀 Current Projects
-
-Self-Learning Models with Chain of Thought (COT):
-Enhancing model reasoning and adaptability by integrating advanced COT methodologies.
-
-AI Brain for Document Extraction:
-Developing a state-of-the-art document extraction system powered by Qdrant, combining semantic search with contextual intelligence.
-
-RAG Frameworks:
-Refining retrieval-augmented generation techniques for creating highly context-aware agents.
-
-
-
----
-
-💡 What I’m Exploring
-
-🌱 Reinforcement Learning, Multi-Agent Systems, and Bayesian Inference for smarter and more robust AI models.
-🔍 Pioneering work in Mamba2 State Space Models (SSMs) and probabilistic learning techniques.
-📚 Expanding into data-efficient learning methods like few-shot learning, meta-learning, and active learning.
-
-
----
-
-💻 Expertise
-
-Building AI-powered NLP systems and LLM-based agents.
-
-Crafting innovative solutions for document processing and contextual AI applications.
-
-Designing scalable RAG frameworks and exploring the potential of multimodal AI systems.
-
-
-
----
-
-🤝 Let’s Collaborate!
-
-I’m always excited to team up on cutting-edge projects that advance:
-
-Cognitive AI systems
-
-Generative AI applications
-
-Multimodal and self-learning AI agents
-
-
-
----
-
-🌟 Let’s innovate and create together! Feel free to reach out or contribute to my projects.
-📫 Connect with me on LinkedIn or drop me a message here!
 
 
 ---
@@ -92,7 +31,55 @@ Multimodal and self-learning AI agents
 
 
 
+# 🌟 Welcome to My GitHub!  
+### I’m Ammar Alnagar  
+**AI Engineer** | **Problem Solver** | **Tech Explorer**  
 
+Hi there! I’m an AI enthusiast who loves building practical solutions with **Large Language Models (LLMs)**, **multimodal AI**, and **cognitive systems**. My focus is on crafting tools and models that help solve real-world problems, make life easier, and push the boundaries of what AI can do.  
+
+---
+
+## 🚀 What I’m Working On  
+
+**🧠 PathfinderAI 32B – Smarter Thinking**  
+A model fine-tuned for **reasoning and problem-solving**, designed to handle complex challenges in real-time.  
+
+**📜 Document Sage – Smarter Data Extraction**  
+Developing an AI-powered system for **semantic search** and **contextual understanding**, making document processing faster and smarter.  
+
+**🔗 RAG Architect**  
+Experimenting with Retrieval-Augmented Generation to build **context-aware agents** that are efficient and reliable.  
+
+---
+
+## 🌱 What I’m Learning  
+
+- **Reinforcement Learning & Multi-Agent Systems**: Building AI systems that learn and work together effectively.  
+- **Probabilistic Models**: Exploring Bayesian methods and particle filtering to improve AI decision-making.  
+- **Mamba2 SSMs**: Advancing dynamic modeling for more adaptable AI solutions.  
+- **Few-Shot and Meta-Learning**: Finding better ways to train models with less data.  
+
+---
+
+## 💻 What I Can Help With  
+
+🔹 **Building Intelligent AI Agents**: Creating systems that think, learn, and adapt.  
+🔹 **Optimizing LLMs for Edge Devices**: Deploying AI that’s both powerful and lightweight.  
+🔹 **Multimodal Systems**: Combining text, visuals, and context for richer AI experiences.  
+🔹 **Practical AI Solutions**: From document processing to conversational tools, I enjoy solving challenges with real impact.  
+
+---
+
+## 🤝 Let’s Collaborate!  
+
+I’m always up for working on exciting projects, especially if they involve:  
+- Building practical **AI tools** to solve everyday problems.  
+- Exploring the potential of **multimodal and reasoning-driven systems**.  
+- Innovating with **retrieval-augmented frameworks** or **LLMs**.  
+
+---
+
+📬 Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com). Let’s share ideas and build something amazing together!
 
 
 
