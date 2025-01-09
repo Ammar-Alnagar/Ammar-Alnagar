@@ -40,6 +40,11 @@ Hi there! I’m an AI enthusiast who loves building practical solutions with **L
 
 ## 🚀 What I’m Working On  
 
+
+**🔱 CogniLink 70B - Decoding complexity **
+A SOTA model finetuned for reasoning and Chain-of-thought 
+design to handle complex problems and reasoning tasks.
+
 **🧠 PathfinderAI 32B – Smarter Thinking**  
 A model fine-tuned for **reasoning and problem-solving**, designed to handle complex challenges in real-time.  
 
