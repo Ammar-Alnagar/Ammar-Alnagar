@@ -41,7 +41,7 @@ Hi there! I’m an AI enthusiast who loves building practical solutions with **L
 ## 🚀 What I’m Working On  
 
 
-**🔱 CogniLink 70B - Decoding complexity **
+**🔱 CogniLink 70B - Decoding complexity**
 A SOTA model finetuned for reasoning and Chain-of-thought 
 design to handle complex problems and reasoning tasks.
 
