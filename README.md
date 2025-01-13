@@ -98,11 +98,11 @@ I’m always up for working on exciting projects, especially if they involve:
 ###
 <p>
 
-![Ammar-Alnagar's Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+![Ammar-Alnagar's Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
 
 
-![Ammar-Alnagar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Alnagar&theme=onedark&hide_border=false)
+
 
 ###
 
