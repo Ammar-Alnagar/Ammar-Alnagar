@@ -42,6 +42,25 @@ Whether it’s **fine-tuning large language models**, deploying **AI on edge dev
 
 ## 🚀 Highlights of My Work  
 
+### 🧠**Cogito-R1 -Math Wizard**
+an **advanced reasoning and Chain-of-Thought (CoT)** model fine-tuned on Qwen2.5-32B using Unsloth, TRL, and GRPO. Designed for complex reasoning, mathematical problem-solving, and structured inference, Cogito-R1 delivers state-of-the-art performance.
+
+🔹 Key Highlights:
+✅ State-of-the-art Reasoning: Multi-step logical inference and structured decision-making.
+✅ Mathematical Excellence: Outperforms ChatGPT-o1 Mini on GSM8K (81.2%) and MATH (63.4%).
+✅ Trained on High-Quality Reasoning Data: Extracted from o1, o3, Gemini Thinking, and R1 to enhance logical reasoning and problem-solving.
+✅ Powered by GH200: Training was conducted on NVIDIA GH200 Superchips, enabling efficient optimization with GRPO and Unsloth.
+
+🔹 Performance Benchmarks:
+📈 +1.7% on GSM8K (Math reasoning)
+📈 +2.2% on MATH (Advanced math)
+📈 +1.6% on HellaSwag (Commonsense reasoning)
+
+💡 Designed for AI research, tutoring, financial analysis, and algorithmic reasoning, Cogito-R1 is a proof of concept model.
+
+
+
+
 ### 🔱 **CogniLink 70B – Decoding Complexity**  
 A **state-of-the-art reasoning model** fine-tuned for advanced **Chain-of-Thought (CoT)** tasks. Designed to tackle **complex decision-making** and serve as a cornerstone for solving intricate problems.  
 
