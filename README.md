@@ -1,5 +1,5 @@
 
-# Greetings, Fellow Innovator! 👋  
+# Greetings, Fellow Tech Wizard! 👋 🧙‍♂️ 
 
 <a href="https://linkedin.com/in/ammar-alnagar-393413201" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -8,28 +8,7 @@
 
 
 ---
-
-
-```
-
-
-                                                                                                                                   
-                                                                                                                                   
-`7MM"""Yb.      db      `7MM"""YMM  `7MMM.     ,MMF' .g8""8q. `7MN.   `7MF'MMP""MM""YMM   db   MMP""MM""YMM   .g8""8q.`YMM'   `MP' 
-  MM    `Yb.   ;MM:       MM    `7    MMMb    dPMM .dP'    `YM. MMN.    M  P'   MM   `7  ;MM:  P'   MM   `7 .dP'    `YM.VMb.  ,P   
-  MM     `Mb  ,V^MM.      MM   d      M YM   ,M MM dM'      `MM M YMb   M       MM      ,V^MM.      MM      dM'      `MM `MM.M'    
-  MM      MM ,M  `MM      MMmmMM      M  Mb  M' MM MM        MM M  `MN. M       MM     ,M  `MM      MM      MM        MM   MMb     
-  MM     ,MP AbmmmqMA     MM   Y  ,   M  YM.P'  MM MM.      ,MP M   `MM.M       MM     AbmmmqMA     MM      MM.      ,MP ,M'`Mb.   
-  MM    ,dP'A'     VML    MM     ,M   M  `YM'   MM `Mb.    ,dP' M     YMM       MM    A'     VML    MM      `Mb.    ,dP',P   `MM.  
-.JMMmmmdP'.AMA.   .AMMA..JMMmmmmMMM .JML. `'  .JMML. `"bmmd"' .JML.    YM     .JMML..AMA.   .AMMA..JMML.      `"bmmd"'.MM:.  .:MMa.
-                                                                                                                                   
-                                                                                                                                   
-                           
-```                                                                                                                                     
-
-
-                                                                                                                          
-                                                                                                       
+                                                                       
 # 🌟 Welcome to My Corner of GitHub!  
 ### I’m Ammar Alnagar  
 **Senior Appliied AI Engineer**   
@@ -42,23 +21,14 @@ Whether it’s **fine-tuning large language models**, deploying **AI on edge dev
 
 ## 🚀 Highlights of My Work  
 
+
+### 👾🤖**PathfinderAI-S1 (Extreme Reasoning version)** [WIP]
+The latest model in the PathfinderAI family , built ontop deepseek-r1 distills,
+with a mix of Reasoning models traces from o1,o3-mini,deepseek-r1,gemini-thinking.
+its trained using GRPO , mainly on math and reasoning task and its better than o1-preview and Qwen2.5 qwq in math and hard reasoning tasks.
+
 ### 🧠**Cogito-R1 -Math Wizard**
 an **advanced reasoning and Chain-of-Thought (CoT)** model fine-tuned on Qwen2.5-32B using Unsloth, TRL, and GRPO. Designed for complex reasoning, mathematical problem-solving, and structured inference, Cogito-R1 delivers state-of-the-art performance.
-
-🔹 Key Highlights:
-✅ State-of-the-art Reasoning: Multi-step logical inference and structured decision-making.
-✅ Mathematical Excellence: Outperforms ChatGPT-o1 Mini on GSM8K (81.2%) and MATH (63.4%).
-✅ Trained on High-Quality Reasoning Data: Extracted from o1, o3, Gemini Thinking, and R1 to enhance logical reasoning and problem-solving.
-✅ Powered by GH200: Training was conducted on NVIDIA GH200 Superchips, enabling efficient optimization with GRPO and Unsloth.
-
-🔹 Performance Benchmarks:
-📈 +1.7% on GSM8K (Math reasoning)
-📈 +2.2% on MATH (Advanced math)
-📈 +1.6% on HellaSwag (Commonsense reasoning)
-
-💡 Designed for AI research, tutoring, financial analysis, and algorithmic reasoning, Cogito-R1 is a proof of concept model.
-
-
 
 
 ### 🔱 **CogniLink 70B – Decoding Complexity**  
