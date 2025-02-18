@@ -11,9 +11,10 @@
                                                                        
 # 🌟 Welcome to My Corner of GitHub!  
 ### I’m Ammar Alnagar  
-**Senior Appliied AI Engineer**   
+**Cognitive AI Engineer**   
 
-Here, innovation meets impact. I’m Ammar, an AI engineer passionate about crafting solutions that **decode complexity** and turn possibilities into reality. From **reasoning-driven models** to **multimodal AI systems**, I’m constantly pushing the boundaries of what’s possible.  
+Here, innovation meets impact. I’m  passionate about crafting solutions that **decode complexity** and turn possibilities into reality. 
+From **reasoning-driven models** to **multimodal AI systems**, I’m constantly pushing the boundaries of what’s possible.  
 
 Whether it’s **fine-tuning large language models**, deploying **AI on edge devices**, or diving deep into **mathematical problem-solving**, my mission is simple: **solve real-world problems and redefine what AI can do.**  
 
