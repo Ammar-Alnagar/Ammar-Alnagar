@@ -22,7 +22,7 @@ Whether it’s **fine-tuning large language models**, deploying **AI on edge dev
 ## 🚀 Highlights of My Work  
 
 
-### 👾🤖**PathfinderAI-S1 (Extreme Reasoning version)** [WIP]
+### 👾🤖**PathfinderAI-S1 (Extreme Reasoning version)** 
 The latest model in the PathfinderAI family , built ontop deepseek-r1 distills,
 with a mix of Reasoning models traces from o1,o3-mini,deepseek-r1,gemini-thinking.
 its trained using GRPO , mainly on math and reasoning task and its better than o1-preview and Qwen2.5 qwq in math and hard reasoning tasks.
