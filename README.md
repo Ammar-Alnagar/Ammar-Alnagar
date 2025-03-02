@@ -49,26 +49,7 @@ I’m always on the lookout for new frontiers:
 
 ---
 
-## 💼 How I Contribute
 
-I deliver:
-- **Practical AI Solutions:** Transforming ideas into impactful tools.
-- **Multimodal Expertise:** Seamlessly integrating text, visuals, and context.
-- **LLM Optimization:** Making high-performance models run on even the tiniest devices.
-- **Real-World Impact:** Solving genuine challenges with innovative AI strategies.
-
----
-
-## 🤝 Let’s Collaborate
-
-If you’re a visionary exploring:
-- **Reasoning-Driven AI**
-- **Multimodal, Context-Aware Systems**
-- **Edge-AI Deployments**
-
-then let's create the future together!
-
-[Connect with me on LinkedIn](https://linkedin.com/in/ammar-alnagar-393413201)
 
 
 
@@ -126,15 +107,8 @@ then let's create the future together!
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAydGl4bXJkbXlsMmZtNmVoaWZwemUzcDVzc201MXZkdnk2ODNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
 
-###
 
-<img src="https://raw.githubusercontent.com/Ammar-Alnagar/Ammar-Alnagar/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ammar-Alnagar/count.svg?"  />
-</div>
 
 ###
 ---
