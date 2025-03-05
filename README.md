@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/view/ferris-rust-rustlang-crab-ferris-crab-gif-27435390" align="center" style="width: 100%" />
+<img src="https://rustacean.net/" align="center" style="width: 100%" />
 </div>  
   
 
