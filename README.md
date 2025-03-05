@@ -1,79 +1,90 @@
+---
 
-## <div align="center">Hey 👋, I'm Ammar Alnagar </div>  
-  
+🚀 Hey, I'm Ammar Alnagar!
 
+Machine Learning Engineer | AI Researcher | LLMs & Multimodal AI
 
+I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning systems. My research focuses on LLMs, VLLMs, reinforcement learning, and Rust-optimized AI.
 
-### About me  
-I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning systems. I develop agentic workflows, document-processing AI, and advanced Chain-of-Thought models. Currently working on Zireal, a next-gen reasoning model optimized for speed and precision.
+Currently developing Zireal, a next-gen reasoning model optimized for speed and precision.
 
-🔬 Research: LLMs, VLLMs, RL, Rust-optimized AI
+🔬 Research Areas: LLMs, VLLMs, RL, Rust-optimized AI
 🛠 Tech Stack: Python, PyTorch, Rust, TRL, Unsloth
-📌 Projects: NLP, AI agents, self-learning models
+📌 Focus Areas: AI Agents, NLP, Self-Learning Models
 
-Let’s build the future of AI! 🤖  
-  
+> Let’s build the future of AI! 🤖
 
 
-## Languages and Tools  
+
+
+---
+
+🚀 Featured Projects
+
+🔥 Zireal – Next-Gen Reasoning Model
+
+A state-of-the-art reasoning LLM optimized for speed, precision, and short-form CoT reasoning. Fine-tuned with Unsloth & GRPO, outperforming Cogito-R1 & PathfinderAI S1 in structured inference and logical problem-solving.
+
+🖼️ AI-Powered Image Prompt Evaluation
+
+A multimodal pipeline where an LLM generates image prompts, a VLM evaluates them, and the system refines results based on feedback. Used for image generation quality assessment and autistic children’s cognitive perception studies.
+
+📄 Intelligent Document Processing
+
+An AI-driven document extraction and processing framework for structured information retrieval. Combines NLP, RAG, and multimodal AI to handle complex document workflows.
+
+🤖 Agentic Multimodal AI
+
+An Agentic workflow system that creates multimodal AI agents with selective Chain-of-Thought reasoning and knowledge augmentation. Designed for Arabic question answering and interactive AI research.
+
+
+---
+
+🛠 Tech Stack & Tools
+
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://cython.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cython-original.svg" alt="Cython" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="25" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="30" />  
 </div>  
+---
 
-<br/>  
+📊 GitHub Stats
 
-
-## Github Stats  
 <table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr></table>  
+---
 
-<br/>  
+☕ Support My Work
 
-  
-
-<br/>  
+If you like my work, consider buying me a coffee!
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ammar-Alnagar&&style=flat-square" align="center" />
+    <a href="https://www.buymeacoffee.com/Daemontatox" target="_blank">
+        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+    </a>
 </div>  
-  
+---
 
-<br/>  
+✨ Connect & Collaborate
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Daemontatox" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+📧 Email: ammaralnagar416@gmail.com
+ 
+🌐 Website: https://huggingface.co/Daemontatox
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+🔗 LinkedIn: https://www.linkedin.com/in/ammar-alnagar-393413201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+💻 GitHub: Ammar-Alnagar
+
+
+---
+
