@@ -1,7 +1,6 @@
 
 <h3 align="center">🚀 Hey, I'm a Machine Learning Engineer | AI Researcher | LLMs & Multimodal AI I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning systems. My research focuses on LLMs, VLLMs, reinforcement learning, and Rust-optimized AI.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
 
 - 🔭 I’m currently working on [Zireal, a family of extreme reasoning models.](https://huggingface.co/Daemontatox/Zireal-0)
 
@@ -16,6 +15,11 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ammar-alnagar-393413201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/ammar-alnagar-393413201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <h3 align="left">Connect with me:</h3>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ammar-alnagar-393413201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ammar-alnagar-393413201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
