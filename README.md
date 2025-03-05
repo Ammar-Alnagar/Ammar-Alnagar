@@ -1,5 +1,5 @@
 
-<h3 align="center">🚀 Hey, I'm Ammar Alnagar! Machine Learning Engineer | AI Researcher | LLMs & Multimodal AI I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning systems. My research focuses on LLMs, VLLMs, reinforcement learning, and Rust-optimized AI.</h3>
+<h3 align="center">🚀 Hey, I'm a Machine Learning Engineer | AI Researcher | LLMs & Multimodal AI I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning systems. My research focuses on LLMs, VLLMs, reinforcement learning, and Rust-optimized AI.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
 
