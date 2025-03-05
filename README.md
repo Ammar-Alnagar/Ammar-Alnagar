@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rustacean.net/" align="center" style="width: 100%" />
-</div>  
-  
 
 ## <div align="center">Hey 👋, I'm Ammar Alnagar </div>  
   
@@ -17,20 +13,6 @@ I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning sy
 
 Let’s build the future of AI! 🤖  
   
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
