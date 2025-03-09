@@ -1,5 +1,6 @@
 
-<br>🚀 Hey, I'm Ammar Alnagar!<br><br>Machine Learning Engineer | AI Researcher | LLMs & Multimodal AI<br><br>I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning systems. My research focuses on LLMs, VLLMs, reinforcement learning, and Rust-optimized AI.
+<br>🚀 Hey, I'm Ammar Alnagar!<br><br>Machine Learning Engineer <br><br>I'm passionate about fine-tuning LLMs, multimodal AI, and cognitive reasoning systems. 
+My research focuses on LLMs, VLLMs, reinforcement learning, and Rust-optimized AI.
 
 
 ## 🌐 Socials:
