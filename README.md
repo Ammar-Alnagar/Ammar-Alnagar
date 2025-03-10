@@ -4,11 +4,11 @@
 
 ```
 
-_nnnn_
-        dGGGGMMb
-       @p~qp~~qMb
-       M|@||@) M|
-       @,----.JM|
+                      
+        dGGGGMMb     ,"""""""""""""""""".
+       @p~qp~~qMb    | My name is Jeff! |
+       M|@||@) M|   _;..................'
+       @,----.JM| -'
       JS^\__/  qKL
      dZP        qKRb
     dZP          qKKb
@@ -18,9 +18,8 @@ _nnnn_
  __| ".        |\dS"qML
  |    `.       | `' \Zq
 _)      \.___.,|     .'
-\____   )MMMMMP|   .'
-     `-'       `--' hjm
-
+\____   )MMMMMM|   .'
+     `-'       `--' 
 
 ```
 
