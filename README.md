@@ -59,7 +59,7 @@
 ---
 
 ## 📫 Connect With Me
-💻 [GitHub](https://github.com/Ammar-Alnagar) | 📜 [LinkedIn](https://www.linkedin.com/in/ammar-alnagar-393413201/) | 📝 [Huggingface](https://huggingface.co/Daemontatox)
+💻 [GitHub](https://github.com/Ammar-Alnagar) | 📜 [LinkedIn](https://www.linkedin.com/in/ammar-alnagar-393413201/) | 🤗 [Huggingface](https://huggingface.co/Daemontatox)
 
 
 
