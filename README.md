@@ -21,9 +21,9 @@
 
 ## 🔨 Projects & Contributions
 ### 🚀 Featured Projects
-- **[Zireal](https://github.com/Ammar-Alnagar)** - High-speed reasoning LLM, optimized for structured inference
-- **[Spectrum](https://github.com/Ammar-Alnagar)** - AI-powered educational tool for autistic children
-- **[Cogito-R1](https://github.com/Ammar-Alnagar)** - Reasoning-optimized model fine-tuned on Qwen2.5-32B
+- **[Zireal](https://huggingface.co/Daemontatox/Zireal-0)** - High-speed reasoning LLM, optimized for structured inference based on Deepseek R1-Zero
+- **[Llama 70B CogniLink](https://huggingface.co/Daemontatox/Llama3.3-70B-CogniLink)** - State-of-the-art (SOTA) reasoning model
+- **[Cogito-R1](https://huggingface.co/Daemontatox/Cogito-R1)** - Reasoning-optimized model fine-tuned on Qwen2.5-32B
 
 ### 🛠 Open-Source & Research
 - 📝 Contributing to **LLM efficiency & inference optimization**
