@@ -55,6 +55,9 @@
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&layout=compact&theme=radical)  
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
+
+
 ---
 
 ## 📫 Connect With Me  
