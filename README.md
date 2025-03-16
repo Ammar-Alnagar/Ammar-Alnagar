@@ -1,87 +1,102 @@
 
+🚀 Hi there, I'm Ammar Alnagar! 👋
 
+Machine Learning Systems Engineer | LLM Researcher | AI Optimization Specialist
+🔬 Specializing in LLM Reasoning, Multimodal AI, GPU Optimization, and Quantization
+⚡ Currently focused on Triton, CUDA, and high-performance AI kernels
 
-
-### Hi there, I'm Ammar Alnagar! 👋
-
-🚀 **Machine Learning Systems Engineer** | **AI & LLM Researcher** | **Open-Source Contributor**  
-🔬 Specializing in **Large Language Models (LLMs)**, **Multimodal AI**, **Quantization**, and **Reinforcement Learning**  
-🛠 Currently exploring **Zig, Rust, Nim**, and optimizing AI workflows  
 
 ---
 
-## 🧠 About Me
-- 🔎 Passionate about **LLMs, VLLMs, and advanced reasoning techniques**
-- 📜 Creator of **Zireal**, an efficient reasoning LLM with short and necessary thought chains
-- 🤖 Building **Spectrum**, a vision-language AI tool to help autistic children improve communication skills
-- 🎯 Researching **LLM quantization** (GPTQ, AWQ, FlexGen, and beyond)
-- 🦀 Learning **Rust** for high-performance AI systems
+🧠 About Me
+
+🤖 Passionate about LLMs, VLLMs, and advanced reasoning techniques
+
+⚡ Optimizing AI workflows with Triton, CUDA, and quantization (GPTQ, AWQ)
+
+📜 Creator of Zireal, a reasoning-optimized LLM with efficient thought chains
+
+🧩 Building Spectrum, a vision-language AI to support autistic children’s communication skills
+
+🚀 Exploring high-speed transformer inference and LLM acceleration
+
+
 
 ---
 
-## 🔨 Projects & Contributions
-### 🚀 Featured Projects
-- **[Zireal](https://huggingface.co/Daemontatox/Zireal-0)** - High-speed reasoning LLM, optimized for structured inference based on Deepseek R1-Zero
-- **[Llama 70B CogniLink](https://huggingface.co/Daemontatox/Llama3.3-70B-CogniLink)** - State-of-the-art (SOTA) reasoning model
-- **[Cogito-R1](https://huggingface.co/Daemontatox/Cogito-R1)** - Reasoning-optimized model fine-tuned on Qwen2.5-32B
+🔬 Projects & Research
 
-### 🛠 Open-Source & Research
-- 📝 Contributing to **LLM efficiency & inference optimization**
-- 📚 Exploring **multimodal models & cognitive AI workflows**
+🚀 Featured Projects
 
----
+Zireal – High-speed reasoning LLM optimized for structured inference
 
-## 📊 Tech Stack
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
-![Nim](https://img.shields.io/badge/Nim-FFE953?style=flat&logo=nim&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+Llama 70B CogniLink – Advanced SOTA reasoning model
 
-**AI & ML Tools:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-007ACC?style=flat&logo=jax&logoColor=white)
-![TRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+Cogito-R1 – Qwen2.5-32B fine-tuned for optimized reasoning
+
+
+🛠 Open-Source & Research
+
+🔥 LLM Quantization & Inference Optimization – GPTQ, AWQ, FlexGen
+
+📝 Triton GPU Kernels for Fast Transformer Computation
+
+📚 Multimodal AI & Cognitive AI Workflows
+
+
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ammar-Alnagar&theme=radical)
+⚙️ Tech Stack
 
-## 📊 GitHub Stats & Languages
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&layout=compact&theme=radical)
+Core Specialties:
+
+
+
+
+
+
+Programming Languages:
+
+
+
+
 
 ---
 
-## 📫 Connect With Me
-💻 [GitHub](https://github.com/Ammar-Alnagar) | 📜 [LinkedIn](https://www.linkedin.com/in/ammar-alnagar-393413201/) | 🤗 [Huggingface](https://huggingface.co/Daemontatox)
+📊 GitHub Stats & Contributions
 
+
+
+
+
+---
+
+📫 Connect With Me
+
+💻 GitHub | 📜 LinkedIn | 🤗 Huggingface
+
+
+---
+
+🐍 Fun Fact
+
+```
+
+# First Triton kernel - Vector Addition  
+import triton  
+import triton.language as tl  
+
+@triton.jit  
+def vector_add(X, Y, Z, N: tl.constexpr):  
+    pid = tl.program_id(axis=0)  
+    offsets = pid * 128 + tl.arange(0, 128)  
+    mask = offsets < N  
+    x = tl.load(X + offsets, mask=mask)  
+    y = tl.load(Y + offsets, mask=mask)  
+    tl.store(Z + offsets, x + y, mask=mask)
 
 
 ```
 
-                      
-        dGGGGMMb     ,"""""""""""""""""".
-       @p~qp~~qMb    | My name is Jeff! |
-       M|@||@) M|   _;..................'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--' 
-
-```
-
-
+> 🚀 Mastering GPU acceleration, one Triton kernel at a time!
