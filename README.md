@@ -84,4 +84,3 @@ def vector_add(X, Y, Z, N: tl.constexpr):
 ![Snake animation](https://github.com/Ammar-Alnagar/Ammar-Alnagar/blob/output/github-contribution-grid-snake.svg)
 
 
-
