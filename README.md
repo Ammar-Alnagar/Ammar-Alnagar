@@ -76,3 +76,12 @@ def vector_add(X, Y, Z, N: tl.constexpr):
     x = tl.load(X + offsets, mask=mask)  
     y = tl.load(Y + offsets, mask=mask)  
     tl.store(Z + offsets, x + y, mask=mask)
+
+```
+
+
+## 🐍 GitHub Contribution Snake  
+![Snake animation](https://github.com/Ammar-Alnagar/Ammar-Alnagar/blob/output/github-contribution-grid-snake.svg)
+
+
+
