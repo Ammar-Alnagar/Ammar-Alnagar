@@ -1,7 +1,3 @@
-Here’s your updated GitHub README to align with your latest focus areas and decisions:  
-
----
-
 # 🚀 Hi there, I'm Ammar Alnagar! 👋  
 
 **Senior Machine Learning Software Engineer** | **LLM Researcher** | **AI Systems Optimization Specialist**  
@@ -68,7 +64,7 @@ Here’s your updated GitHub README to align with your latest focus areas and de
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
-###
+
 
 <br clear="both">
 
