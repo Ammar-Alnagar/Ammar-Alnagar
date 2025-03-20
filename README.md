@@ -44,7 +44,7 @@
 - ![Triton](https://img.shields.io/badge/Triton-3498DB?style=flat&logo=triton&logoColor=white)  
 - ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)  
 - ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)  
-- ![JAX](https://img.shields.io/badge/JAX-007ACC?style=flat&logo=jax&logoColor=white)  
+
 
 ### 📡 System & Optimization Tools  
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
@@ -78,26 +78,7 @@
 
 ---
 
-### 🧩 Fun Fact  
-```python
-# High-Performance Triton Kernel - Matrix Multiplication  
-import triton  
-import triton.language as tl  
 
-@triton.jit  
-def matmul_kernel(A, B, C, M: tl.constexpr, N: tl.constexpr, K: tl.constexpr):  
-    pid = tl.program_id(axis=0)  
-    offsets_m = pid * 128 + tl.arange(0, 128)  
-    offsets_n = tl.arange(0, 128)  
-    mask_m = offsets_m < M  
-    mask_n = offsets_n < N  
-    acc = tl.zeros([128, 128], dtype=tl.float32)  
-    for k in range(K):  
-        a = tl.load(A + offsets_m * K + k, mask=mask_m)  
-        b = tl.load(B + k * N + offsets_n, mask=mask_n)  
-        acc += a[:, None] * b[None, :]  
-    tl.store(C + offsets_m * N + offsets_n, acc, mask=mask_m[:, None] & mask_n[None, :])  
-```  
 
 ---
 
