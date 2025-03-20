@@ -63,9 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammar-Alnagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar-alnagar" alt="ammar-alnagar" /></a> </p>
-
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ammar-Alnagar/Ammar-Alnagar/output/snake.svg" alt="Snake animation" />
