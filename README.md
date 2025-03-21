@@ -1,5 +1,12 @@
 💫 About Me:
-🚀 About Me  <br>👋 Hi, I'm **Ammar Alnagar**, a **Machine Learning Software Engineer** passionate about **LLMs, multimodal AI, system optimization, and AI-driven applications**. I specialize in **advanced language models, document processing, reinforcement learning, and efficient AI deployment**.  <br><br>---<br><br>### 🔭 I’m currently working on  <br>- **Zireal** – A reasoning-focused LLM optimized for fast, structured thinking.  <br>- **Spectrum** – A vision-language system to help autistic children improve observational and communication skills.  <br>- **LLM Quantization** – Exploring sub-4-bit quantization techniques like **GPTQ, AWQ, and FlexGen**.  <br>- **Integrating Rust with AI** – Optimizing LLM inference and AI pipelines using **Rust, PyTorch, and Triton**.  <br><br>---<br><br>### 👯 I’m looking to collaborate on  <br>- **LLM fine-tuning & optimization** – If you're working on efficient **SSMs, Transformer alternatives, or quantization**, let’s chat!  <br>- **Multimodal AI applications** – Interested in building **vision-language models** or **interactive AI systems**? I'm in!  <br>- **AI for social good** – Developing **AI-driven educational tools** and **cognitive learning applications**.  <br><br>---<br><br>### 🤝 I’m looking for help with  <br>- **LLM quantization** – Exploring new **sub-4-bit methods** and efficient inference strategies.  <br>- **Reinforcement learning** – Implementing **self-learning AI agents** for real-world applications.  <br><br>---<br><br>### 🌱 I’m currently learning  <br>- **Rust, Zig, and Nim** – Expanding into **systems programming** for AI optimization.  <br>- **PyTorch beyond training** – Using PyTorch for **Triton-based optimizations and inference acceleration**.  <br><br>---<br><br>### 💬 Ask me about  <br>💡 **LLMs, Retrieval-Augmented Generation (RAG), multimodal AI, document processing, reinforcement learning, and system-level AI optimizations.**  <br><br>---<br><br>### ⚡ Fun fact  <br>I’m constantly experimenting with **new AI architectures** and **optimization tricks**—always chasing **efficiency and reasoning improvements!**  <br><br>
+🚀 About Me  <br>👋 Hi, I'm **Ammar Alnagar**, 
+A **Machine Learning Software Engineer** passionate about **LLMs, multimodal AI, system optimization, and AI-driven applications**. I specialize in **advanced language models, document processing, reinforcement learning, and efficient AI deployment**.  <br><br>---<br><br>
+ 🔭 I’m currently working on  <br>- **Zireal** – A reasoning-focused LLM optimized for fast, structured thinking.  <br>- **Spectrum** – A vision-language system to help autistic children improve observational and communication skills.  <br>- **LLM Quantization** – Exploring sub-4-bit quantization techniques like **GPTQ, AWQ, and FlexGen**.  <br>- **Integrating Rust with AI** – Optimizing LLM inference and AI pipelines using **Rust, PyTorch, and Triton**.  <br><br>---<br><br>
+ 👯 I’m looking to collaborate on  <br>- **LLM fine-tuning & optimization** – If you're working on efficient **SSMs, Transformer alternatives, or quantization**, let’s chat!  <br>- **Multimodal AI applications** – Interested in building **vision-language models** or **interactive AI systems**? I'm in!  <br>- **AI for social good** – Developing **AI-driven educational tools** and **cognitive learning applications**.  <br><br>---<br><br>
+🤝 I’m looking for help with  <br>- **LLM quantization** – Exploring new **sub-4-bit methods** and efficient inference strategies.  <br>- **Reinforcement learning** – Implementing **self-learning AI agents** for real-world applications.  <br><br>---<br><br>
+🌱 I’m currently learning  <br>- **Rust, Zig, and Nim** – Expanding into **systems programming** for AI optimization.  <br>- **PyTorch beyond training** – Using PyTorch for **Triton-based optimizations and inference acceleration**.  <br><br>---<br><br>
+💬 Ask me about  <br>💡 **LLMs, Retrieval-Augmented Generation (RAG), multimodal AI, document processing, reinforcement learning, and system-level AI optimizations.**  <br><br>---<br><br>
+ Fun fact  <br>I’m constantly experimenting with **new AI architectures** and **optimization tricks**—always chasing **efficiency and reasoning improvements!**  <br><br>
 
 
 
@@ -13,11 +20,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ammar-Alnagar&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
-  ## 💰 You can help me by Donating
+
+
+
+
+  ## 📫 Connect With Me  
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-alnagar-393413201) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ammaralnagar416@gmail.com) 
+ | 🤗 [Huggingface](https://huggingface.co/Daemontatox)  
+
+
+  ## 💰Buy me a Potato
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Daemontatox) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ammar-Alnagar/Ammar-Alnagar/output/snake.svg" alt="Snake animation" />
@@ -25,20 +40,4 @@
 ---
 ---
 
-## 📫 Connect With Me  
-🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-alnagar-393413201) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ammaralnagar416@gmail.com) 
- | 🤗 [Huggingface](https://huggingface.co/Daemontatox)  
 
----
-
-
-
----
-
-### 🔥 Latest Updates  
-- 📌 Deep dive into **Triton + PyTorch for AI kernel optimization**  
-- 🚀 Researching **LLM sub-4-bit quantization and low-bit inference**  
-- ⚡ Exploring **Rust and Zig for AI system optimization**  
-
----
