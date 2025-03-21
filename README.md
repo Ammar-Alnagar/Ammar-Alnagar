@@ -1,5 +1,5 @@
-💫 About Me:
-🚀 About Me  <br>👋 Hi, I'm **Ammar Alnagar**, 
+🚀 About Me 
+<br>👋 Hi, I'm **Ammar Alnagar**, 
 A **Machine Learning Software Engineer** passionate about **LLMs, multimodal AI, system optimization, and AI-driven applications**. I specialize in **advanced language models, document processing, reinforcement learning, and efficient AI deployment**.  <br><br>---<br><br>
  🔭 I’m currently working on  <br>- **Zireal** – A reasoning-focused LLM optimized for fast, structured thinking.  <br>- **Spectrum** – A vision-language system to help autistic children improve observational and communication skills.  <br>- **LLM Quantization** – Exploring sub-4-bit quantization techniques like **GPTQ, AWQ, and FlexGen**.  <br>- **Integrating Rust with AI** – Optimizing LLM inference and AI pipelines using **Rust, PyTorch, and Triton**.  <br><br>---<br><br>
  👯 I’m looking to collaborate on  <br>- **LLM fine-tuning & optimization** – If you're working on efficient **SSMs, Transformer alternatives, or quantization**, let’s chat!  <br>- **Multimodal AI applications** – Interested in building **vision-language models** or **interactive AI systems**? I'm in!  <br>- **AI for social good** – Developing **AI-driven educational tools** and **cognitive learning applications**.  <br><br>---<br><br>
