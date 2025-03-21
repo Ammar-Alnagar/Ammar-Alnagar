@@ -7,10 +7,9 @@
 ---
 
 ## 🧠 About Me  
-- 🤖 Passionate about **LLMs, VLLMs, and advanced reasoning techniques**  
-- ⚡ **Optimizing AI systems** with **Triton, CUDA, and efficient quantization (GPTQ, AWQ, FlexGen)**  
+- 🤖 Passionate about **LLMs, VLLMs, and advanced reasoning techniques**   
 - 📜 Creator of **Zireal**, a reasoning-optimized LLM with structured inference  
-- 🧩 Building **Spectrum**, a vision-language AI to enhance communication skills in autistic children  
+- 🧩 Building **VisoLearn**, a vision-language AI to enhance communication skills in autistic children  
 - 🚀 Exploring **LLM acceleration, reinforcement learning, and Rust for AI optimization**  
 
 ---
@@ -53,15 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions  
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ammar-Alnagar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammar-Alnagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 <br clear="both">
 
