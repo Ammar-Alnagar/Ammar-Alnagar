@@ -18,7 +18,7 @@ A **Machine Learning Software Engineer** passionate about **LLMs, multimodal AI,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ammar-Alnagar&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
