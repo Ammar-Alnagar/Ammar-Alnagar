@@ -1,6 +1,3 @@
-Here’s a revised version to better align with your expertise and projects:
-
----
 
 🚀 **About Me**  
 <br>👋 Hi, I'm **Ammar Alnagar**,  
