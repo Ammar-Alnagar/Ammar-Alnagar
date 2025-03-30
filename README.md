@@ -50,6 +50,8 @@ I'm constantly experimenting with **novel AI architectures** and **optimization 
 
 https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=darkhub
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ammar-alnagar/github-profile-trophy)
+
 ---
 
 ## 📫 **Connect With Me**  
