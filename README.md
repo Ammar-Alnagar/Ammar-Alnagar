@@ -45,10 +45,7 @@ I'm constantly experimenting with **novel AI architectures** and **optimization 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ammar-Alnagar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 **GitHub Trophies**  
-![](https://github-trophies.vercel.app/?username=ammar-alnagar)
-
-https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=darkhub
+## 🏆 **GitHub Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ammar-alnagar/github-profile-trophy)
 
