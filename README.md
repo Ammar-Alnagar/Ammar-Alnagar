@@ -23,7 +23,7 @@ I'm a **Machine Learning Software Engineer** deeply passionate about **LLMs, mul
 <br><br>---<br><br>
 
 🌱 **Currently Learning:**  
-- **Rust, Zig, and Nim** – Venturing into **systems programming** to optimize AI performance at the hardware level.  
+- **Rust, Zig, and Nim** (mostly rust) – Venturing into **systems programming** to optimize AI performance at the hardware level.  
 - **PyTorch Beyond Training** – Exploring **Triton optimizations** and inference acceleration with PyTorch.  
 <br><br>---<br><br>
 
@@ -31,9 +31,6 @@ I'm a **Machine Learning Software Engineer** deeply passionate about **LLMs, mul
 💡 **LLMs, RAG (Retrieval-Augmented Generation), multimodal AI, reinforcement learning, and system-level AI optimizations.**  
 <br><br>---<br><br>
 
-**Fun Fact:**  
-I'm constantly experimenting with **novel AI architectures** and **optimization strategies**, always aiming to push the boundaries of **efficiency** and **reasoning**.  
-<br><br>
 
 ---
 
@@ -45,7 +42,7 @@ I'm constantly experimenting with **novel AI architectures** and **optimization 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ammar-Alnagar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 **GitHub Trophies 
+## 🏆 **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ammar-alnagar/github-profile-trophy)
 
