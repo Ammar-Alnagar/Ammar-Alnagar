@@ -48,6 +48,8 @@ I'm constantly experimenting with **novel AI architectures** and **optimization 
 ## 🏆 **GitHub Trophies**  
 ![](https://github-trophies.vercel.app/?username=ammar-alnagar)
 
+https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=darkhub
+
 ---
 
 ## 📫 **Connect With Me**  
