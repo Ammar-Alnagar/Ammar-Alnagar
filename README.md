@@ -36,7 +36,7 @@ I'm a **Machine Learning Software Engineer** deeply passionate about **LLMs, mul
 
 ## 🏆 **GitHub Trophies**
 
-https://github-profile-trophy.vercel.app/?username=ammar-alnagar&theme=kimbei_dark
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark
 
 ## 📫 **Connect With Me**  
 🌐 **Socials:**  
