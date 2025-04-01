@@ -3,7 +3,6 @@
 <br>👋 Hi, I'm **Ammar Alnagar**,  
 I'm a **Machine Learning Software Engineer** deeply passionate about **LLMs, multimodal AI, system optimization, and AI-driven applications**. My focus is on **advanced language models, efficient AI deployment, document processing, and reinforcement learning**. I thrive on optimizing and fine-tuning AI systems to solve real-world problems.  
 
-
 🔭 **Current Projects:**  
 - **Zireal** – An advanced reasoning-focused LLM designed for fast, structured thinking.  
 - **Spectrum** – A vision-language system aimed at improving observational and communication skills for autistic children.  
