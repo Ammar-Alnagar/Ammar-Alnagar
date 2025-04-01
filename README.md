@@ -46,6 +46,6 @@ I am **Ammar Alnagar**, an **AI Systems Engineer** specializing in **LLMs, multi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 📫 **Contact:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-alnagar-393413201)  
-[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](mailto:Ammaralnagar416@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-alnagar-393413201)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ammaralnagar416@gmail.com)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF4F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Daemontatox)
