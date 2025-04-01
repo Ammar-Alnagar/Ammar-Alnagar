@@ -38,6 +38,7 @@ I am **Ammar Alnagar**, an **AI Systems Engineer** specializing in **LLMs, multi
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%238A3D7D.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF4F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 # 📊 **GitHub Insights:**  
 ![](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
