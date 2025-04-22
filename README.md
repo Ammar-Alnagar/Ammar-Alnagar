@@ -44,9 +44,36 @@ My mission: turning cutting-edge AI research into fast, scalable, and deployable
 
 ### 📌 Toolbelt
 
-`Python` · `Rust` · `PyTorch` · `Triton` · `OpenCV` · `AWS (EC2, SageMaker)` · `Git`  
-Also exploring: `NoSQL` · `Keras` · `Lambda` · `GCP` · `C++/C` · `Nim`
-
+**Programming Languages:**
+```
+Python , Rust, C++, C, Java , NIM
+```
+**Machine Learning & AI Frameworks:**
+```
+Transformers, LangChain, Accelerate, PyTorch, Diffusers, Unsloth, OpenCV
+```
+**Model Development & Optimization:**
+```
+Fine-tuning LLMs (e.g., QwQ_Zero1)
+Reinforcement Learning with TRL & Unsloth
+Retrieval-Augmented Generation (e.g., Self-Learning RAG)
+Vision-Language Agents (Sphinx, VisoLearn)
+Cognitive Querying Systems (Enlightener)
+Voice-AI with real-time TTS integration (Immy)
+```
+**Algorithms & Systems Programming:**
+```
+Parallel & distributed systems
+Low-level systems optimizations (e.g., advanced C++, Triton kernels)
+```
+**Cloud & DevOps:**
+```
+AWS (EC2, SageMaker, API Gateway, Lambda), Git, NoSQL (MongoDB), transitioning to GCP
+```
+**Systems & Performance Engineering:**
+```
+Modern C++, Rust, low-level systems optimization, CLI tools (e.g., fzf, bat, exa)
+```
 ---
 
 ### 🌐 Connect with Me
