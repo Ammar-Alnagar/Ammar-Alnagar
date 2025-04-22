@@ -77,10 +77,17 @@ Modern C++, Rust, low-level systems optimization, CLI tools (e.g., fzf, bat, exa
 ---
 
 ### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-alnagar-393413201)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ammaralnagar416@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF4F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Daemontatox)
+<p align="center">
+  <a href="https://linkedin.com/in/ammar-alnagar-393413201">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Ammaralnagar416@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://huggingface.co/Daemontatox">
+    <img src="https://img.shields.io/badge/Hugging%20Face-%23FF4F00.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
+  </a>
+</p>
 
 ---
 
