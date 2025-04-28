@@ -1,12 +1,12 @@
 
-<h1 align="center">⚙️ Ammar Alnagar — AI/ML Engineer</h1>
+<h1 align="center">⚙️ Ammar Alnagar — AI Systems Engineer</h1>
 <p align="center">Crafting high-performance, deployable AI systems | Specializing in LLMs, multimodal intelligence, and system-level optimization</p>
 
 ---
 
 ### 🚀 About Me
 
-I'm **Ammar Alnagar**, an **AI/ML Engineer** focused on **LLM optimization, cognitive reasoning systems, and efficient AI deployment**.  
+I'm **Ammar Alnagar**, an **AI Systems Engineer** focused on **LLM optimization, cognitive reasoning systems, and efficient AI deployment**.  
 My mission: turning cutting-edge AI research into fast, scalable, and deployable applications.
 
 - 🧠 Architect of **reasoning-first LLMs** and **multimodal AI systems**  
@@ -50,7 +50,7 @@ Python , Rust, C++, C, Java , NIM
 ```
 **Machine Learning & AI Frameworks:**
 ```
-Transformers, LangChain, Accelerate, PyTorch, Diffusers, Unsloth, OpenCV
+Transformers, LangChain, Accelerate, PyTorch, Diffusers, Unsloth, OpenCV , CrewAI , AG2 , LangGraph 
 ```
 **Model Development & Optimization:**
 ```
@@ -64,7 +64,7 @@ Voice-AI with real-time TTS integration (Immy)
 **Algorithms & Systems Programming:**
 ```
 Parallel & distributed systems
-Low-level systems optimizations (e.g., advanced C++, Triton kernels)
+Low-level systems optimizations (e.g., advanced C++)
 ```
 **Cloud & DevOps:**
 ```
