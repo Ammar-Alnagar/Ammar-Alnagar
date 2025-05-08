@@ -35,13 +35,13 @@ EdTech AI – building agents that help people learn (and teach themselves too)
 
 🧪 Cool Stuff I’ve Built
 
-🧩 QwQ_Zero1 – My custom-finetuned LLM that actually thinks
+🧩 QwQ Zero1 – My custom-finetuned LLM that actually thinks
 
-🌈 VisoLearn – A VLM for kids with ASD that makes learning fun
+🌈 VisoLearn – A VLLM Framework for kids with ASD that makes learning fun
 
-🔬 Inference Boosts – Speed-ups with Rust, Triton, and dark GPU magic
+🔬 Qwen Griffon  – SLM Finetuned for fast and enhanced reasoning to match SOTA models.
 
-🧠 Self-Learning RAG – An evolving retrieval system that gets smarter over time
+🧠 Self-Learning RAG – An evolving retrieval system that gets smarter over time from user's Chatting
 
 🎓 Enlightener – AI tutor that gives personalized, deep reasoning feedback
 
