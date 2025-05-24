@@ -6,7 +6,7 @@
 
 🚀 Hey, I’m Ammar!
 
-I’m an AI Software Engineer who loves making large language models smarter, faster, and ready for the wild.
+I’m an AI Infrastructure  Engineer who loves making large language models smarter, faster, and ready for the wild.
 I specialize in LLM optimization, reasoning systems, and building AI that actually works in production.
 
 🧠 Big fan of reasoning-first models and cognitive agents
@@ -35,9 +35,9 @@ EdTech AI – building agents that help people learn (and teach themselves too)
 
 🧪 Cool Stuff I’ve Built
 
-🧩 QwQ Zero1 – My custom-finetuned LLM that actually thinks
+🧩 Manticore 32B – My custom-finetuned LLM that uses less reasoning and thinking tokens to get the same results 
 
-🌈 VisoLearn – A VLLM Framework for kids with ASD that makes learning fun
+🌈 VisoLearn – A VLLM Framework for kids with ASD that makes learning fun using GenAI (Text + Image)
 
 🔬 Qwen Griffon  – SLM Finetuned for fast and enhanced reasoning to match SOTA models.
 
@@ -45,15 +45,15 @@ EdTech AI – building agents that help people learn (and teach themselves too)
 
 🎓 Enlightener – AI tutor that gives personalized, deep reasoning feedback
 
+🧸 Immy - First AI powered Teddy bear that speaks to the child in real time and learns to match the child behaviour and patterns.
+
 
 
 ---
 
 ⚙️ Currently Powering Up
 
-Kernel wizardry – Custom CUDA kernels, Triton fusion, pushing PyTorch to the limit
-
-Systems deep dive – More Rust, modern C++, and exploring Zig
+Kernel wizardry – Unsloth , Agentic AI
 
 Tiny models, big impact – Embedding lightweight models into everyday apps
 
@@ -69,7 +69,7 @@ Python, Rust, C++, C, Java, NIM
 
 AI Tools I jam with:
 
-Transformers, LangChain, Accelerate, PyTorch, Diffusers, Unsloth, OpenCV, CrewAI, AG2, LangGraph
+Transformers, LangChain, Accelerate, PyTorch, Diffusers, Unsloth, OpenCV, CrewAI, AG2, LangGraph , ADK , PydanticAI
 
 What I optimize and experiment with:
 
@@ -87,9 +87,7 @@ Cloud & Infra:
 
 AWS (EC2, SageMaker, Lambda), Git, MongoDB, moving into GCP
 
-CLI & Dev joy:
 
-fzf, bat, exa, and other tools that make life better
 
 
 ---
@@ -112,5 +110,3 @@ fzf, bat, exa, and other tools that make life better
 <p align="center">
   <i>“I build AI that thinks fast and runs faster.”</i>
 </p>
----
-
