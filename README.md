@@ -1,98 +1,66 @@
-
-
-<h1 align="center">⚙️ Ammar Alnagar — LLM Wizard & System Tweaker</h1>
-<p align="center">Turning AI research into real-world magic | LLMs, multimodal intelligence, and making things *really* fast</p>
----
-
-🚀 Hey, I’m Ammar!
-
-I’m an AI Infrastructure  Engineer who loves making large language models smarter, faster, and ready for the wild.
-I specialize in LLM optimization, reasoning systems, and building AI that actually works in production.
-
-🧠 Big fan of reasoning-first models and cognitive agents
-
-🛠️ I build AI systems that feel like magic but run on code
-
-⚡ Obsessed with making inference blazingly fast using Rust, Triton, and PyTorch
-
-
+<h1 align="center">⚙️ Ammar Alnagar — Cognitive Systems Architect & AI Agent Engineer</h1>
+<p align="center">Designing thinking machines | LLMs, cognitive agents, and multi-agent systems</p>
 
 ---
 
-🛠️ What I’m Good At
+🚀 **About Me**
 
-LLM tuning & deployment – from fine-tuning to RAG, with a side of RLHF
+AI Systems Architect & Researcher specializing in building reasoning-first AI, intelligent agent frameworks, and production-ready LLM pipelines.
 
-Multimodal AI – mixing vision, language, and interactivity like a mad scientist
-
-System-level speed hacks – squeezing out milliseconds with low-level tricks
-
-EdTech AI – building agents that help people learn (and teach themselves too)
-
-
+- 🧠 Master’s Thesis: _“DynaToM: Modeling Dynamic and Interactive Theory of Mind for Conversational Agents”_
+- 🤖 Focus: scalable cognitive agents, agentic workflows, and real-world LLM deployments
+- ⚙️ Engineer of fast, logic-driven systems that go beyond token prediction
 
 ---
 
-🧪 Cool Stuff I’ve Built
+📚 **Academic Focus**
 
-🧩 Manticore 32B – My custom-finetuned LLM that uses less reasoning and thinking tokens to get the same results 
-
-🌈 VisoLearn – A VLLM Framework for kids with ASD that makes learning fun using GenAI (Text + Image)
-
-🔬 Qwen Griffon  – SLM Finetuned for fast and enhanced reasoning to match SOTA models.
-
-🧠 Self-Learning RAG – An evolving retrieval system that gets smarter over time from user's Chatting
-
-🎓 Enlightener – AI tutor that gives personalized, deep reasoning feedback
-
-🧸 Immy - First AI powered Teddy bear that speaks to the child in real time and learns to match the child behaviour and patterns.
-
-
+- **Theory of Mind in AI** — agents that model beliefs, intentions, and social dynamics
+- **Reasoning-Centric LLMs** — optimizing for logical depth over surface completion
+- **Agent Memory & Adaptation** — long-term memory, reflection, and self-improving systems
 
 ---
 
-⚙️ Currently Powering Up
+🧠 **Core Expertise**
 
-Kernel wizardry – Unsloth , Agentic AI
-
-Tiny models, big impact – Embedding lightweight models into everyday apps
-
-
-
----
-
-🧰 My Toolbox
-
-Languages I like to fight bugs in:
-
-Python, Rust, C++, C, Java, NIM
-
-AI Tools I jam with:
-
-Transformers, LangChain, Accelerate, PyTorch, Diffusers, Unsloth, OpenCV, CrewAI, AG2, LangGraph , ADK , PydanticAI
-
-What I optimize and experiment with:
-
-LLM fine-tuning (QwQ_Zero1)
-Reinforcement learning (TRL, Unsloth)
-RAG systems (Self-Learning RAG)
-Vision-Language agents (VisoLearn, Sphinx)
-Voice-AI & real-time TTS (Immy)
-
-Systems brain stuff:
-
-Distributed computing, low-level optimization, advanced C++
-
-Cloud & Infra:
-
-AWS (EC2, SageMaker, Lambda), Git, MongoDB, moving into GCP
-
-
-
+- **LLM Systems**: PEFT, LoRA, QLoRA, RAG, RLHF, TRL, fine-tuning from 1B–32B
+- **Agentic AI**: single/multi-agent systems, long-context memory, planning, tool use
+- **Cognitive Architectures**: theory-driven design with dynamic belief-state modeling
+- **AI Workflows**: chaining agents, state machines, memory modules, and toolkits
+- **Infra + Deployment**: Hugging Face, TorchServe, Accelerate, Unsloth, AWS Lambda/SageMaker
 
 ---
 
-🌐 Let’s Link Up
+🛠️ **Projects**
+
+- **🧩 Manticore 32B** – Custom-finetuned Qwen-32B for efficient reasoning
+- **🌈 VisoLearn** – Multimodal tutor agent for neurodivergent children (ASD), uses VLLMs
+- **🔬 Qwen Griffon** – Reasoning-enhanced SLM with SOTA-like performance under budget
+- **🧠 Self-Learning RAG** – Retrieval system that adapts to user interaction history
+- **🎓 Enlightener** – Personalized tutor with deep feedback via RLHF + agent memory
+- **🧸 Immy** – AI-powered bear that interacts in real-time with emotion-aware adaptation
+
+---
+
+📡 **Current Work**
+
+- Building **multi-agent systems** with reflective memory and dynamic goal-setting  
+- Engineering **modular agent frameworks** for open-ended interaction + planning  
+- Exploring **Theory of Mind integration** into real-time dialog agents
+
+---
+
+🧰 **Stack**
+
+**Languages**: Python, Rust, C++, Java, Nim  
+**AI Frameworks**: PyTorch, Transformers, Accelerate, Diffusers, Unsloth, TRL  
+**Agentic Toolkits**: LangChain, CrewAI, LangGraph, AGiXT, AutoGen, PydanticAI  
+**Infra & Ops**: AWS (Lambda, SageMaker, EC2), Git, MongoDB, Hugging Face Hub  
+**Focus Areas**: RAG, memory-augmented agents, cognitive workflows, VLLMs, real-time feedback systems
+
+---
+
+🌐 **Connect**
 
 <p align="center">
   <a href="https://linkedin.com/in/ammar-alnagar-393413201">
@@ -105,8 +73,9 @@ AWS (EC2, SageMaker, Lambda), Git, MongoDB, moving into GCP
     <img src="https://img.shields.io/badge/Hugging%20Face-%23FF4F00.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
   </a>
 </p>
+
 ---
 
 <p align="center">
-  <i>“I build AI that thinks fast and runs faster.”</i>
+  <i>“I build AI that thinks fast and learns even faster.”</i>
 </p>
