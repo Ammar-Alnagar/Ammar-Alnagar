@@ -7,7 +7,6 @@
 
 I work at the intersection of large language models, cognitive science, and systems engineering. My focus is on building **reasoning-first agents** and **modular multi-agent frameworks** that go beyond prompt-response.
 
-- 🎓 Master’s Thesis: _“DynaToM: Modeling Dynamic and Interactive Theory of Mind for Conversational Agents”_
 - 🧠 Core interest: agents with belief modeling, memory, and long-term goals
 - 🔍 I care about making AI useful, interpretable, and actually smart — not just "chatty"
 
