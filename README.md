@@ -1,67 +1,105 @@
-<h1 align="center">⚙️ Ammar Alnagar — AI Systems Engineer | Cognitive Architect</h1>
-<p align="center">I build AI that thinks, plans, and adapts — not just predicts.</p>
+# Hi there, I'm Ammar Alnagar 👋
+
+<div align="center">
+  
+**LLM Systems Engineer | AI Research Enthusiast | Open Source Contributor**
+
+*Building the future of AI systems, one model at a time*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-alnagar-393413201/)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Daemontatox)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammaralnagar416@gmail.com)
+
+</div>
 
 ---
 
-🚀 **Hey, I'm Ammar**
+## 🚀 About Me
 
-I work at the intersection of large language models, cognitive science, and systems engineering. My focus is on building **reasoning-first agents** and **modular multi-agent frameworks** that go beyond prompt-response.
+I'm a **LLM Systems Engineer**  with a passion for pushing the boundaries of AI systems. Currently pursuing my **M.Sc. in Artificial Intelligence**, I specialize in building scalable, production-ready AI systems with a focus on **Rust** and **Python**.
 
-- 🧠 Core interest: agents with belief modeling, memory, and long-term goals
-- 🔍 I care about making AI useful, interpretable, and actually smart — not just "chatty"
+- 🔬 **Current Focus**: Advanced RAG systems, LLM optimization, and multi-agent frameworks
+- 🌱 **Learning**: Cutting-edge model architectures and distributed AI systems
+- 💡 **Research Interests**: RLHF, model distillation, and efficient inference
+- 🎯 **Goal**: Democratizing access to powerful AI systems through efficient engineering
+
+## 🛠️ Tech Stack
+
+### Core Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### Infrastructure & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+## 🏆 Featured Projects
+
+### 🔥 [Phoenix](https://github.com/Ammar-Alnagar/phoenix)
+**Instruction-tuned Qwen3-32B** - Advanced language model fine-tuning
+- 🎯 **Impact**: +0.75 BLEU score improvement
+- 🛠️ **Tech**: PyTorch, Transformers, LoRA, Quantization
+
+### 🤖 [Ai-Agents.rs](https://github.com/Ammar-Alnagar/ai-agents-rs)
+**Rust-based LLM Agent Framework** - High-performance multi-agent system
+- ⚡ **Features**: Shared memory, streaming capabilities
+- 🛠️ **Tech**: Rust, async/await, memory optimization
+
+### 🧠 [Zireal-0](https://github.com/Ammar-Alnagar/zireal-0)
+**DeepSeek RLHF Agent** - Reinforcement learning from human feedback
+- 📊 **Performance**: +5% F1 gain on GSM8K benchmark
+- 🛠️ **Tech**: RLHF, Self-feedback mechanisms
+
+### 🎯 [OR1-Behemoth](https://github.com/Ammar-Alnagar/or1-behemoth)
+**Qwen3-72B for 32k Context** - Large-scale context processing
+- 🎯 **Specialty**: Rust-focused development tasks
+- 🛠️ **Tech**: Long-context attention, optimization
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Alnagar&theme=dark&hide_border=true)
+
+</div>
+
+## 🎓 Certifications & Achievements
+
+- 🏅 **Google Professional ML Engineer**
+- ☁️ **AWS ML Specialty**
+- 🚀 **NVIDIA GenAI Associate**
+- 🤖 **IBM AI Engineering**
+- 🔍 **Cohere LLM + Semantic Search**
+- 🏛️ **Microsoft Agentic Design**
+- 🧠 **Anthropic GenAI Specialization**
+
+## 🌟 What I'm Working On
+
+- 🔬 **Research**: Advanced RLHF techniques for large language models
+- 🦀 **Development**: Next-generation Rust frameworks for AI systems
+- 🤝 **Collaboration**: Open-source contributions to the AI community
+- 📚 **Learning**: Cutting-edge model architectures and distributed systems
 
 ---
 
-🧠 **What I Work On**
+<div align="center">
 
-- **Cognitive agents** — agents that track goals, beliefs, and mental states  
-- **Reasoning pipelines** — LLM stacks designed for logic, not just fluency  
-- **Memory systems** — long-term memory, self-reflection, and behavior updates  
-- **Tool-using agents** — LangGraph, OpenAI Assistants, Google AI SDK, LangChain  
-- **Multi-agent systems** — coordination, planning, modular workflows
+*"The best way to predict the future is to build it."*
 
----
+**Let's connect and build something amazing together!**
 
-🛠️ **Projects**
+[![Profile Views](https://komarev.com/ghpvc/?username=Ammar-Alnagar&style=flat-square&color=brightgreen)](https://github.com/Ammar-Alnagar)
 
-- **Zirel-0** – DeepSeek-R1-Zero finetuned for better reasoning and minimal hallucination  
-- **OR1 Behemoth** – Qwen 3 72B trained for Rust — strongest Rust completion & Generation model available  
-- **CogniLink** – LLaMA 3.3 70B with added reasoning + reflection, without losing creative edge  
-- **Manticore 32B** – Reasoning-tuned Qwen3-32B with low-latency high-accuracy outputs  
-- **VisoLearn** – Multimodal VLLM tutor for neurodivergent learners (ASD)  
-- **Qwen Griffon** – Lightweight SLM with enhanced reasoning at low cost  
-- **Self-Learning RAG** – Retrieval system that adapts to user context and evolves  
-- **Enlightener** – RLHF-trained tutor agent with long-memory and personalized feedback  
-- **Immy** – Emotion-aware real-time AI bear with adaptive state modeling
-- **Wisal** - a revolutionary, AI-powered educational platform designed specifically for children with Autism Spectrum Disorder (ASD) in real time. 
-
----
-
-🧰 **Tools I Use a Lot**
-
-**Languages**: Python, Rust, C++, Java  
-**Frameworks**: PyTorch, Transformers, TRL, Unsloth, Accelerate , Burn , Lightning 
-**Agent Stacks**: LangGraph, LangChain, OpenAI Agents framework, Google ADK (Google AI Agents) ,Pydantic AI
-**Focus Areas**: RAG, memory-augmented agents, symbolic logic, multi-agent systems , Small language models (Small VLMs too)
-
----
-
-📡 **Let’s Connect**
-
-<p align="center">
-  <a href="https://linkedin.com/in/ammar-alnagar-393413201">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:Ammaralnagar416@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://huggingface.co/Daemontatox">
-    <img src="https://img.shields.io/badge/Hugging%20Face-%23FF4F00.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building systems that learn, reason, and adapt. No fluff. Just logic.</i>
-</p>
+</div>
