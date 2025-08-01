@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **LLM Systems Engineer**  with a passion for pushing the boundaries of AI systems. Currently pursuing my **M.Sc. in Artificial Intelligence**, I specialize in building scalable, production-ready AI systems with a focus on **Rust** and **Python**.
+I'm a **LLM Systems Engineer**  with a passion for pushing the boundaries of AI systems. Currently pursuing my **M.Sc. in Artificial Intelligence** , I specialize in building scalable, production-ready AI systems with a focus on **Rust** and **Python**.
 
 - 🔬 **Current Focus**: Advanced RAG systems, LLM optimization, and multi-agent frameworks
 - 🌱 **Learning**: Cutting-edge model architectures and distributed AI systems
@@ -31,59 +31,53 @@ I'm a **LLM Systems Engineer**  with a passion for pushing the boundaries of AI 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### AI/ML Frameworks
+### AI/ML Frameworks & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Accelerate](https://img.shields.io/badge/Accelerate-FF6B6B?style=for-the-badge&logoColor=white)
+![TRL](https://img.shields.io/badge/TRL-4ECDC4?style=for-the-badge&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-95E1D3?style=for-the-badge&logoColor=black)
+
+### Optimization & Serving
+![vLLM](https://img.shields.io/badge/vLLM-6C5CE7?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![LocalAI](https://img.shields.io/badge/LocalAI-0984E3?style=for-the-badge&logoColor=white)
+![TorchScript](https://img.shields.io/badge/TorchScript-EE4C2C?style=for-the-badge&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### RAG & Agent Frameworks
+![Haystack](https://img.shields.io/badge/Haystack-1E3A8A?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-059669?style=for-the-badge&logoColor=white)
+![SwarmAI](https://img.shields.io/badge/SwarmAI-EA580C?style=for-the-badge&logoColor=white)
+
+### Multimodal & Speech
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google_TTS](https://img.shields.io/badge/Google_TTS-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
 ### Infrastructure & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 🏆 Featured Projects
-
-### 🔥 [Phoenix](https://github.com/Ammar-Alnagar/phoenix)
-**Instruction-tuned Qwen3-32B** - Advanced language model fine-tuning
-- 🎯 **Impact**: +0.75 BLEU score improvement
-- 🛠️ **Tech**: PyTorch, Transformers, LoRA, Quantization
-
-### 🤖 [Ai-Agents.rs](https://github.com/Ammar-Alnagar/ai-agents-rs)
-**Rust-based LLM Agent Framework** - High-performance multi-agent system
-- ⚡ **Features**: Shared memory, streaming capabilities
-- 🛠️ **Tech**: Rust, async/await, memory optimization
-
-### 🧠 [Zireal-0](https://github.com/Ammar-Alnagar/zireal-0)
-**DeepSeek RLHF Agent** - Reinforcement learning from human feedback
-- 📊 **Performance**: +5% F1 gain on GSM8K benchmark
-- 🛠️ **Tech**: RLHF, Self-feedback mechanisms
-
-### 🎯 [OR1-Behemoth](https://github.com/Ammar-Alnagar/or1-behemoth)
-**Qwen3-72B for 32k Context** - Large-scale context processing
-- 🎯 **Specialty**: Rust-focused development tasks
-- 🛠️ **Tech**: Long-context attention, optimization
-
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Ammar-Alnagar's Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&layout=compact&theme=dark&hide_border=true)
+![Ammar-Alnagar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Alnagar&theme=vue-dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Alnagar&theme=dark&hide_border=true)
+![Ammar-Alnagar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 </div>
 
-## 🎓 Certifications & Achievements
 
-- 🏅 **Google Professional ML Engineer**
-- ☁️ **AWS ML Specialty**
-- 🚀 **NVIDIA GenAI Associate**
-- 🤖 **IBM AI Engineering**
-- 🔍 **Cohere LLM + Semantic Search**
-- 🏛️ **Microsoft Agentic Design**
-- 🧠 **Anthropic GenAI Specialization**
 
 ## 🌟 What I'm Working On
 
