@@ -142,6 +142,3 @@ I’m a **M.Sc. Artificial Intelligence** student and **LLM Systems Engineer** f
 
 
 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ammar-alnagar-393413201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/ammar-alnagar-393413201?trk=profile-badge">Ammar Alnagar</a></div>
-              
