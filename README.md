@@ -1,6 +1,6 @@
 # 👋 Ammar Alnagar
 
-**LLM Systems Engineer building production-grade AI infrastructure in Rust & Python**
+**LLM Systems Engineer building production-grade AI infrastructure in Cuda & Python**
 
 Currently: M.Sc. AI Student | Specializing in scalable inference engines & advanced RAG systems
 
@@ -30,25 +30,11 @@ Currently: M.Sc. AI Student | Specializing in scalable inference engines & advan
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammar-Alnagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Alnagar&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Alnagar&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
 ## 🎯 Focus Areas
 
-- 🦀 **Rust-native AI systems** for low-latency inference
 - 📚 **Graph-based RAG** with advanced reranking strategies
 - 🤖 **Multi-agent orchestration** with LangGraph & CrewAI
 - ⚡ **LLM optimization** via quantization, distillation & efficient fine-tuning
