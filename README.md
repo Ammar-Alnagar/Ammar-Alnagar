@@ -1,6 +1,6 @@
 
 # Hey, I’m Ammar  
-## GenAI Systems Engineer 
+### GenAI Systems Engineer 
 I build **production Systems** that scale:  
 - **Fast LLM serving** with vLLM, quantization (AWQ/GPTQ/FP8), and distillation  
 - **Graph-based RAG** pipelines with dense retrieval + cross-encoder reranking  
