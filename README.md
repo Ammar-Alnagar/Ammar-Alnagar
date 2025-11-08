@@ -1,48 +1,43 @@
-# hey, i'm Ammar 👋
+# Hey, i'm Ammar 
 
-Staff GenAI Systems Engineer by day, M.Sc. AI student by night. 
-I build production AI systems that scale and research the stuff that'll matter in two years.
+**Senior GenAI Systems Engineer** | **Open Source Wizard** | **Electric Stone Alchemist**
 
-## what i do
+Been summoning LLMs into production long enough to know which incantations actually work and which ones just set your GPU on fire.
 
-I work at the intersection of AI research and real-world systems engineering. That means taking bleeding-edge models and making them actually work in production—fast, reliable, and without burning through compute budgets.
+## what i conjure
 
-**Day job:** Architecting GenAI systems that handle real user traffic. Multi-agent orchestration, RAG pipelines that don't hallucinate, and LLM inference that doesn't cost a fortune.
+I'm an **open source wizard** crafting AI systems that survive contact with reality. My spellbook includes:
+- RAG pipelines that actually retrieve the right scrolls (not just vibes)
+- Multi-agent orchestration that doesn't devolve into digital anarchy
+- Inference spells optimized for speed (because nobody wants to wait 30 seconds for enlightenment)
+- Cost optimization rituals that keep the bean counters happy
 
-**Research:** Currently obsessed with making LLMs smarter through better architectures. 
-Created and Working on [Helios Engine](https://github.com/Ammar-Alnagar/Helios-Engine)—a Rust framework for LLM agents that prioritizes speed and reliability.
-Also exploring graph-based RAG, advanced reranking, and RL for domain-specific models.
+By day: architecting GenAI systems at scale  
+By night: M.Sc. AI student (because sleep is overrated)
 
-## my stack
+## current magical artifacts
 
-**Languages:** Rust (when performance matters), Python (for everything else)
+**[Helios Engine](https://github.com/Ammar-Alnagar/Helios-Engine)** — My magnum opus. LLM agent framework forged in Rust because Python was too slow for my grand designs. As an **electric stone alchemist**, I transmute compiler optimizations into blazing-fast inference. Turns out other wizards find it useful too.
 
-**AI/ML:** Advanced RAG systems, multi-agent orchestration, model optimization, distributed training, RLHF pipelines
+**Research experiments:**
+- Graph-based RAG (because flat retrieval is so 2023)
+- Reranking alchemy that actually works
+- Chain-of-thought architectures without the hallucination tax
+- Model distillation (making big brains fit into small skulls)
 
-**Production:** End-to-end system design, efficient inference, model serving at scale
+## my arcane toolkit
 
-## current experiments
+**Rust** — when I need the compiler to be my co-pilot (electric stone alchemy at its finest)  
+**C/C++** — for when I need to go even closer to the metal  
+**Python** — for when I need results before the heat death of the universe
 
-- Graph-based retrieval systems with dynamic reranking
-- Chain-of-thought reasoning architectures
-- Ultra-low-latency inference in Rust
-- Model distillation for specialized domains
+**Specializations:** Advanced RAG incantations • Multi-agent summoning circles • Model optimization rituals • Distributed training ceremonies • RLHF transmutation • Whatever dark arts make the system work
 
-## philosophy
+## find this wizard
 
-Good AI systems should be:
-- **Fast** — nobody wants to wait 30 seconds for a response
-- **Accessible** — open source beats paywalls
-- **Practical** — research is cool, but only if it ships
-
-Everything I build is open source. Knowledge hoarding is how we end up with mediocre AI.
-
-## find me
-
-- 🤗 [HuggingFace](https://huggingface.co/Daemontatox) — models and experiments
-- 💼 [LinkedIn](https://www.linkedin.com/in/ammar-alnagar-393413201/) — the professional version
-- 📫 Open to collaborations on open source AI infrastructure
+🤗 [HuggingFace](https://huggingface.co/Daemontatox) — where my magical creations live  
+📫 Always down to collaborate with fellow open source wizards on AI infrastructure
 
 ---
 
-*Building the future of AI systems — one commit at a time.*
+*Transmuting silicon into intelligence, one commit at a time* ✨
