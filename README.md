@@ -1,43 +1,50 @@
-# Hey, i'm Ammar 
+# Hey, I'm Ammar Alnagar 🔮
 
-**Senior GenAI Systems Engineer** | **Open Source Wizard** | **Electric Stone Alchemist**
+### **⚡️ AI Systems Engineer | High-Throughput LLM Infrastructure | Rust Enthusiast ⚡️**
 
-Been summoning LLMs into production long enough to know which incantations actually work and which ones just set your GPU on fire.
-
-## what i conjure
-
-I'm an **open source wizard** crafting AI systems that survive contact with reality. My spellbook includes:
-- RAG pipelines that actually retrieve the right scrolls (not just vibes)
-- Multi-agent orchestration that doesn't devolve into digital anarchy
-- Inference spells optimized for speed (because nobody wants to wait 30 seconds for enlightenment)
-- Cost optimization rituals that keep the bean counters happy
-
-By day: architecting GenAI systems at scale  
-By night: M.Sc. AI student (because sleep is overrated)
-
-## current magical artifacts
-
-**[Helios Engine](https://github.com/Ammar-Alnagar/Helios-Engine)** — My magnum opus. LLM agent framework forged in Rust because Python was too slow for my grand designs. As an **electric stone alchemist**, I transmute compiler optimizations into blazing-fast inference. Turns out other wizards find it useful too.
-
-**Research experiments:**
-- Graph-based RAG (because flat retrieval is so 2023)
-- Reranking alchemy that actually works
-- Chain-of-thought architectures without the hallucination tax
-- Model distillation (making big brains fit into small skulls)
-
-## my arcane toolkit
-
-**Rust** — when I need the compiler to be my co-pilot (electric stone alchemy at its finest)  
-**C/C++** — for when I need to go even closer to the metal  
-**Python** — for when I need results before the heat death of the universe
-
-**Specializations:** Advanced RAG incantations • Multi-agent summoning circles • Model optimization rituals • Distributed training ceremonies • RLHF transmutation • Whatever dark arts make the system work
-
-## find this wizard
-
-🤗 [HuggingFace](https://huggingface.co/Daemontatox) — where my magical creations live  
-📫 Always down to collaborate with fellow open source wizards on AI infrastructure
+*Transmuting complexity into scalable intelligence. I specialize in building, optimizing, and deploying GenAI systems that survive contact with reality.*
 
 ---
 
-*Transmuting silicon into intelligence, one commit at a time* ✨
+## 🏗️ What I Build (My Focus)
+
+I architect and implement production-grade Generative AI systems, focusing relentlessly on **performance, reliability, and cost-efficiency**.
+
+| Focus Area | Expertise | Impact |
+| :--- | :--- | :--- |
+| **High-Performance Inference** | Custom kernels, vLLM, TensorRT-LLM, Llama.cpp, Model Quantization (AWQ/GPTQ). | Achieved **40% faster generation** on Qwen3-72B (OR1-Behemoth project). |
+| **Agentic Systems & Agents** | Rust-based async frameworks, multi-agent orchestration (CrewAI, LangGraph), Tool-calling optimization. | Creator of **Helios-Engine**, a high-throughput async Rust agent framework. |
+| **System Architecture** | Deployment via Docker/Kubernetes, FastAPI/gRPC APIs, AWS/GCP infrastructure, MLflow. | Defined the technical strategy for a new AI division at **Allendevaux & Company**. |
+
+## ✨ My Magical Artifacts (Key Projects)
+
+| Project Name | Stack & Focus | Key Achievement |
+| :--- | :--- | :--- |
+| **[Helios-Engine]** | **Rust**, Async, LLM Agents | A high-throughput, native tool-supporting framework for building robust, fast agents. |
+| **OR1-Behemoth** | Quantization, Rust Codegen | Optimized Qwen3-72B for 32k context, resulting in **40% faster generation** than GPT-4. |
+| **Zireal** | DeepSeek, RLHF, PyTorch | RLHF-tuned agent; boosted GSM8K F1 score from 85% to **90%**. |
+| **PlushieAI** | Embedded AI, Mojo, C++ | Voice AI achieving **<400ms latency** (STT → SLM → TTS) on Raspberry Pi edge hardware. |
+
+## 🛠️ My Arcane Toolkit
+
+| Category | My Expertise |
+| :--- | :--- |
+| **Languages** | **Rust**, Python, C++, Mojo, Bash, SQL |
+| **Modeling & Tuning** | PyTorch, Transformers, **RLHF**, Quantization (AWQ/GPTQ), SSMs (Mamba, S4) |
+| **Deployment & Infra** | **vLLM**, TensorRT-LLM, Docker, Kubernetes, FastAPI, gRPC, AWS (EC2, SageMaker) |
+| **Agent & RAG Stack** | **Helios-Engine**, LangChain, LangGraph, Qdrant |
+
+## 🎓 Current Quest
+
+* **M.Sc. in Artificial Intelligence** | Alexandria University, Egypt (Expected Feb 2026) | *GPA: 3.9*
+* (Formerly) Lead AI Systems Engineer at Allendevaux & Company & Senior AI Software Engineer at Critical Future, London.
+
+---
+
+### Find this Engineer
+
+📫 **Email:** ammaralnagar416@gmail.com
+🔗 **LinkedIn:** [Ammar-Alnagar](https://www.linkedin.com/in/Ammar-Alnagar)
+🤗 **HuggingFace:** [Daemontatox](https://huggingface.co/Daemontatox)
+
+*Let's build the next generation of intelligent systems together.*
