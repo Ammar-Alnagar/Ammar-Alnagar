@@ -1,39 +1,27 @@
 # Hey, I'm Ammar Alnagar
 
-### **Lead AI Systems Engineer | Accelerated LLM Infrastructure | M.Sc., AI**
+### **Lead AI Systems Engineer | M.Sc., Artificial Intelligence**
 
-*Transmuting complexity into scalable intelligence. I specialize in building, optimizing, and deploying GenAI systems, focusing on high-speed inference using CUDA, Triton, and Mojo for unparalleled throughput.*
+*I translate cutting-edge research into production-grade AI infrastructure, specializing in ultra-low latency and high-throughput LLM deployment.*
 
 ---
 
-## What I Build (My Focus)
+## Core Focus
 
-I architect and implement production-grade Generative AI systems, focusing relentlessly on **performance, reliability, and cost-efficiency**.
+My work targets the bottleneck of generative AI: **speed and stability at scale.**
 
-| Focus Area | Expertise | Impact |
-| :--- | :--- | :--- |
-| **High-Performance Inference** | Custom Kernels, **CUDA/Triton**, Mojo, vLLM, TensorRT-LLM, Quantization (AWQ/GPTQ). | Achieved **40% faster generation** on Qwen3-72B (OR1-Behemoth project). |
-| **Agentic Systems & Frameworks** | Rust-based async frameworks, multi-agent orchestration, Tool-calling optimization. | Creator of **Helios-Engine**, a high-throughput async Rust agent framework. |
-| **System Architecture** | Deployment via Docker/Kubernetes, FastAPI/gRPC APIs, AWS/GCP infrastructure, MLflow. | Founded the AI division and defined technical strategy at **Allendevaux & Company**. |
+* **Accelerated Inference:** Pushing model limits using low-level optimization (CUDA, Triton, Mojo).
+* **System Engineering:** Building robust systems for model serving, monitoring, and fault-tolerance.
+* **Agent Orchestration:** Designing fast, reliable multi-agent control flows.
 
-## My Magical Artifacts (Key Projects)
+## Currently Working On
 
-| Project Name | Stack & Focus | Key Achievement |
-| :--- | :--- | :--- |
-| **[Helios-Engine]** | **Rust**, Async, LLM Agents | A high-throughput, native tool-supporting framework for building robust, fast agents. |
-| **OR1-Behemoth** | Quantization, Rust Codegen | Optimized Qwen3-72B for 32k context, resulting in **40% faster generation** than GPT-4. |
-| **Zireal** | DeepSeek, RLHF, PyTorch | RLHF-tuned agent; boosted GSM8K F1 score from 85% to **90%**. |
-| **PlushieAI** | Embedded AI, **Mojo**, C++ | Voice AI achieving **<400ms latency** (STT -> SLM -> TTS) on Raspberry Pi edge hardware. |
+I am actively focused on performance optimization and serving frameworks:
+
+* **vLLM:** Maximizing GPU utilization via continuous batching and custom scheduling.
+* **sglang:** Building fast, reliable agents with structural generation and complex control flow.
 
 
-
-### Find this Engineer
-
-📫 **Email:** ammaralnagar416@gmail.com
-🔗 **LinkedIn:** [Ammar-Alnagar](https://www.linkedin.com/in/Ammar-Alnagar)
-🤗 **HuggingFace:** [Daemontatox](https://huggingface.co/Daemontatox)
-
-*Let's build the next generation of intelligent systems together.*
 
 
 
