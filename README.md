@@ -3,7 +3,7 @@
 
 I build inference engines and optimize LLMs at the GPU level. Started with high-level frameworks, got frustrated with black-box performance, so now I'm down in CUDA/C++ land writing kernels and profiling memory bandwidth. Currently exploring Mojo because writing GPU code that looks like Python but runs at C++ speeds is too good to ignore.
 
-**Fun fact:** I've probably spent more time optimizing sub-millisecond latencies than I have sleeping this year. My GPU utilization dashboard has better uptime than my work-life balance. At least the tokens/sec charts look pretty 📈
+**Fun fact:** I've probably spent more time optimizing sub-millisecond latencies than I have sleeping this year. My GPU utilization dashboard has better uptime than my work-life balance. At least the tokens/sec charts look pretty 
 
 ---
 
