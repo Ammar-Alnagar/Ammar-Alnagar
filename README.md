@@ -1,21 +1,18 @@
-# Hey, I'm Ammar Alnagar
+Hey, I'm Ammar 
+
+I build systems that actually run LLMs - everywhere from Raspberry Pis to B200 servers to your smart fridge (yes, really). It's all about figuring out how to integrate these models into real software and making them work within whatever constraints you've got.
 
 
-I build inference engines and optimize LLMs at the GPU level. Started with high-level frameworks, got frustrated with black-box performance, so now I'm down in CUDA/C++ land writing kernels and profiling memory bandwidth. Currently exploring Mojo because writing GPU code that looks like Python but runs at C++ speeds is too good to ignore.
+What I'm Working On
 
-**Fun fact:** I've probably spent more time optimizing sub-millisecond latencies than I have sleeping this year. My GPU utilization dashboard has better uptime than my work-life balance. At least the tokens/sec charts look pretty 
+Helios-Engine - A Rust-based agent framework with streaming and tool calling. Built this for projects that need reliable LLM integration without the overhead.
 
----
+Zllm - Building an LLM inference engine from scratch in C++/CUDA. Learning how Flash Attention, PagedKV cache, and RadixAttention work under the hood helps a lot when you need to deploy these things in weird places.
 
-### Projects I'm Actually Proud Of
+MILI - An end-to-end LLM inference engine in Mojo. Experimenting with getting good performance while keeping the code readable. Includes RoPE, RMSNorm, and FlashAttention implementations.
 
-**[Helios-Engine](https://github.com/Ammar-Alnagar/Helios-Engine)** - Rust agent framework for when LangChain is too slow and you need tool calling that actually works. Streaming, orchestration, the works.
+Axion - A Rust inference engine from an earlier project. Good learning experience in getting models to run efficiently in production environments.
 
-**[Zllm](https://github.com/Ammar-Alnagar/Zllm)** - Building an LLM inference engine from scratch in C++/CUDA. Flash Attention, PagedKV cache, RadixAttention. Learning by doing because reading vLLM source code at 2am wasn't cutting it.
-
-**[MILI](https://github.com/Ammar-Alnagar/MILI)** - End-to-end LLM inference engine in Mojo. Turns out you can write GPU kernels that look like Python but run like C++. RoPE, RMSNorm, FlashAttention—all without the usual CUDA pain.
-
-**[Axion](https://github.com/Ammar-Alnagar/Axion)** - Pure Rust inference engine. Sub-10ms p99 latency, beats vLLM by 20%+ on my benchmarks. Built when I cared about Rust, keeping it here because the benchmarks still slap.
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀
