@@ -1,17 +1,41 @@
-Hey, I'm Ammar 
+# Hey, I'm Ammar 
 
-I build systems that actually run LLMs - everywhere from Raspberry Pis to B200 servers to your smart fridge (yes, really). It's all about figuring out how to integrate these models into real software and making them work within whatever constraints you've got.
+**AI Systems Engineer**  
 
 
-What I'm Working On
+I build systems that run LLMs in the real world—whether that's on a Raspberry Pi, a B200 cluster, or something in between. My focus: making models actually work within real constraints (latency, cost, hardware, privacy).
 
-Helios-Engine - A Rust-based agent framework with streaming and tool calling. Built this for projects that need reliable LLM integration without the overhead.
 
-Zllm - Building an LLM inference engine from scratch in C++/CUDA. Learning how Flash Attention, PagedKV cache, and RadixAttention work under the hood helps a lot when you need to deploy these things in weird places.
 
-MILI - An end-to-end LLM inference engine in Mojo. Experimenting with getting good performance while keeping the code readable. Includes RoPE, RMSNorm, and FlashAttention implementations.
+---
 
-Axion - A Rust inference engine from an earlier project. Good learning experience in getting models to run efficiently in production environments.
+##  Projects I'm Working On
+
+### [Zllm](https://github.com/Ammar-Alnagar/Zllm) – (closed source for now)CUDA Inference Engine
+A custom vLLM fork where I experiment with kernel-level optimizations.
+- Exploring FlashAttention memory patterns and adaptive kernel selection
+- Practical focus: better throughput without sacrificing flexibility
+- Currently used in a few production deployments
+
+### [Helios-Engine](https://github.com/Ammar-Alnagar/Helios-Engine) – Rust Agent Framework
+A lightweight framework for building reliable LLM agents.
+- Async I/O with Tokio, zero-copy patterns where it matters
+- Built for projects that need control without the Python overhead
+
+### [MILI](https://github.com/Ammar-Alnagar/MILI) – Mojo Inference System
+An experimental inference engine written in Mojo.
+- Implementing core kernels (RoPE, RMSNorm, Attention) to learn the language and its performance model
+- Goal: readable code that doesn't sacrifice efficiency
+
+### [AI-Kernel-Learning](https://github.com/Ammar-Alnagar/AI-Kernel-learning)
+Notes, experiments, and small demos as I dig deeper into GPU programming.
+- From raw CUDA → CuTe → Mojo: documenting the journey
+- Happy if it helps someone else avoid the same dead ends
+
+---
+
+##  Let's Connect
+If you're working on inference, kernels, or just trying to ship LLMs without burning a cloud budget—say hi. I'm always up for swapping notes.
 
 
 ```
