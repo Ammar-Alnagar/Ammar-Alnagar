@@ -11,11 +11,12 @@ I build systems that run LLMs in the real world—whether that's on a Raspberry 
 
 ##  Projects I'm Working On
 
-### [Zllm](https://github.com/Ammar-Alnagar/Zllm) – (closed source for now)CUDA Inference Engine
-A custom vLLM fork where I experiment with kernel-level optimizations.
+### [Chimera]([https://github.com/Ammar-Alnagar/Zllm](https://github.com/Ammar-Alnagar/Chimera)) – Inference Engine
+A custom Sglang fork where I experiment with kernel-level optimizations.
 - Exploring FlashAttention memory patterns and adaptive kernel selection
 - Practical focus: better throughput without sacrificing flexibility
 - Currently used in a few production deployments
+- Use CuTeDSL kernels isntead of cutlass cute c++
 
 ### [Helios-Engine](https://github.com/Ammar-Alnagar/Helios-Engine) – Rust Agent Framework
 A lightweight framework for building reliable LLM agents.
