@@ -23,15 +23,13 @@ A lightweight framework for building reliable LLM agents.
 - Async I/O with Tokio, zero-copy patterns where it matters
 - Built for projects that need control without the Python overhead
 
-### [MILI](https://github.com/Ammar-Alnagar/MILI) – Mojo Inference System
-An experimental inference engine written in Mojo.
-- Implementing core kernels (RoPE, RMSNorm, Attention) to learn the language and its performance model
-- Goal: readable code that doesn't sacrifice efficiency
+### [Zeroum](https://github.com/Ammar-Alnagar/Zeroum) – VLLM based Inference System
+zeroum is a fast and easy-to-use library for LLM inference and serving.
+Based on vLLM but enhanced with a Rust serving layer that bypasses concurrency limits and allows enterprise-level serving with 1/6 the CPU usage of the Python layer.
 
-### [AI-Kernel-Learning](https://github.com/Ammar-Alnagar/AI-Kernel-learning)
-Notes, experiments, and small demos as I dig deeper into GPU programming.
-- From raw CUDA → CuTe → Mojo: documenting the journey
-- Happy if it helps someone else avoid the same dead ends
+### [Modular](https://github.com/Ammar-Alnagar/modular)
+The Modular Platform is an open and fully-integrated suite of AI libraries and tools that accelerates model serving and scales GenAI deployments.
+It abstracts away hardware complexity so you can run the most popular open models with industry-leading GPU and CPU performance without any code changes.
 
 ---
 
